@@ -1,0 +1,275 @@
+[adware]
+entity = "behavior"
+score = 10
+
+[apt]
+entity = "behavior"
+score = 10
+
+[backdoor]
+entity = "behavior"
+score = 10
+
+[bootkit]
+entity = "behavior"
+score = 10
+
+[bot]
+entity = "behavior"
+score = 10
+
+[browsermisc]
+entity = "behavior"
+score = 10
+
+[constructor]
+entity = "behavior"
+score = 10
+
+[ddos]
+entity = "behavior"
+score = 10
+
+[downloader]
+entity = "behavior"
+score = 10
+
+[dropper]
+entity = "behavior"
+score = 10
+
+[exploit]
+entity = "behavior"
+score = 10
+
+[hacktool]
+entity = "behavior"
+score = 10
+
+[joke]
+entity = "behavior"
+score = 10
+
+[keylogger]
+entity = "behavior"
+score = 10
+
+[malicious]
+entity = "behavior"
+score = 10
+
+[malware]
+entity = "behavior"
+score = 10
+
+[misleading]
+entity = "behavior"
+score = 10
+
+[monitoringtool]
+entity = "behavior"
+score = 10
+
+[program]
+entity = "behavior"
+score = 10
+
+[psw]
+entity = "behavior"
+score = 10
+
+[pua]
+entity = "behavior"
+score = 10
+
+[pup]
+entity = "behavior"
+score = 10
+
+[pws]
+entity = "behavior"
+score = 10
+
+[ransom]
+entity = "behavior"
+score = 10
+
+[ransomware]
+entity = "behavior"
+score = 10
+
+[remoteaccess]
+entity = "behavior"
+score = 10
+
+[riskware]
+entity = "behavior"
+score = 10
+
+[rogue]
+entity = "behavior"
+score = 10
+
+[rootkit]
+entity = "behavior"
+score = 10
+
+[settingmisc]
+entity = "behavior"
+score = 10
+
+[softwarebundler]
+entity = "behavior"
+score = 10
+
+[spammer]
+entity = "behavior"
+score = 10
+
+[spoofer]
+entity = "behavior"
+score = 10
+
+[spy]
+entity = "behavior"
+score = 10
+
+[spyware]
+entity = "behavior"
+score = 10
+
+[tool]
+entity = "behavior"
+score = 10
+
+[trj]
+entity = "behavior"
+score = 10
+
+[trojan]
+entity = "behavior"
+score = 10
+
+[trojanclicker]
+entity = "behavior"
+score = 10
+
+[trojandownloader]
+entity = "behavior"
+score = 10
+
+[trojannotifier]
+entity = "behavior"
+score = 10
+
+[trojanproxy]
+entity = "behavior"
+score = 10
+
+[trojanspy]
+entity = "behavior"
+score = 10
+
+[virtool]
+entity = "behavior"
+score = 10
+
+[virus]
+entity = "behavior"
+score = 10
+
+[wiper]
+entity = "behavior"
+score = 10
+
+[worm]
+entity = "behavior"
+score = 10
+
+[android]
+entity = "platform"
+score = 10
+
+[androidos]
+entity = "platform"
+score = 10
+
+[apk]
+entity = "platform"
+score = 10
+
+[elf]
+entity = "platform"
+score = 10
+
+[epoc]
+entity = "platform"
+score = 10
+
+[freebsd]
+entity = "platform"
+score = 10
+
+[iphoneos]
+entity = "platform"
+score = 10
+
+[java]
+entity = "platform"
+score = 10
+
+[linux]
+entity = "platform"
+score = 10
+
+[macos]
+entity = "platform"
+score = 10
+
+[palm]
+entity = "platform"
+score = 10
+
+[solaris]
+entity = "platform"
+score = 10
+
+[sunos]
+entity = "platform"
+score = 10
+
+[symbos]
+entity = "platform"
+score = 10
+
+[unix]
+entity = "platform"
+score = 10
+
+[webshell]
+entity = "platform"
+score = 10
+
+[win]
+entity = "platform"
+score = 10
+
+[win2k]
+entity = "platform"
+score = 10
+
+[wince]
+entity = "platform"
+score = 10
+
+[winnt]
+entity = "platform"
+score = 10
+
+[artemis]
+entity = "misc"
+score = 10
+
+[generic]
+entity = "misc"
+score = 10

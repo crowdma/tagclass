@@ -1,0 +1,35 @@
+[malicious]
+entity = "misc"
+score = 10
+
+[malware]
+entity = "misc"
+score = 10
+
+[artemis]
+entity = "misc"
+score = 10
+
+[generic]
+entity = "misc"
+score = 10
+
+[agent]
+entity = "misc"
+score = 10
+
+[heur]
+entity = "misc"
+score = 10
+
+[variant]
+entity = "misc"
+score = 10
+
+[eicar]
+entity = "misc"
+score = 10
+
+[save]
+entity = "misc"
+score = 10

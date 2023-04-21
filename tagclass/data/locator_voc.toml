@@ -1,0 +1,1404 @@
+[adware]
+entity = "behavior"
+score = 10
+
+[apt]
+entity = "behavior"
+score = 10
+
+[trojandownloaderapt]
+entity = "behavior"
+path = "apt"
+score = 10
+
+[backdoor]
+entity = "behavior"
+score = 10
+
+[bootkit]
+entity = "behavior"
+score = 10
+
+[bot]
+entity = "behavior"
+score = 10
+
+[constructor]
+entity = "behavior"
+score = 10
+
+[ddos]
+entity = "behavior"
+score = 10
+
+[downloader]
+entity = "behavior"
+score = 10
+
+[trojdwnldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[trojandownldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[trojandownlder]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[trojandownloadr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[dropper]
+entity = "behavior"
+score = 10
+
+[drooper]
+entity = "behavior"
+uuid = "dropper"
+score = 10
+
+[exploit]
+entity = "behavior"
+score = 10
+
+[exp]
+entity = "behavior"
+uuid = "exploit"
+score = 10
+
+[expoit]
+entity = "behavior"
+uuid = "exploit"
+score = 10
+
+[hacktool]
+entity = "behavior"
+score = 10
+
+[joke]
+entity = "behavior"
+score = 10
+
+[misleading]
+entity = "behavior"
+score = 10
+
+[monitoringtool]
+entity = "behavior"
+path = "tool"
+score = 10
+
+[program]
+entity = "behavior"
+path = "grayware"
+score = 10
+
+[pua]
+entity = "behavior"
+path = "grayware"
+score = 10
+
+[pup]
+entity = "behavior"
+path = "grayware"
+uuid = "pua"
+score = 10
+
+[pws]
+entity = "behavior"
+score = 10
+
+[trojpws]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[spws]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[psw]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[ransomware]
+entity = "behavior"
+score = 10
+
+[ransom]
+entity = "behavior"
+uuid = "ransomware"
+score = 10
+
+[ranosm]
+entity = "behavior"
+uuid = "ransomware"
+score = 10
+
+[tjnransom]
+entity = "behavior"
+uuid = "ransomware"
+score = 10
+
+[trransom]
+entity = "behavior"
+uuid = "ransomware"
+score = 10
+
+[remoteaccess]
+entity = "behavior"
+score = 10
+
+[riskware]
+entity = "behavior"
+score = 10
+
+[rootkit]
+entity = "behavior"
+score = 10
+
+[softwarebundler]
+entity = "behavior"
+score = 10
+
+[spammer]
+entity = "behavior"
+score = 10
+
+[spoofer]
+entity = "behavior"
+score = 10
+
+[spyware]
+entity = "behavior"
+score = 10
+
+[spy]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[tool]
+entity = "behavior"
+score = 10
+
+[toolbar]
+entity = "behavior"
+uuid = "tool"
+score = 10
+
+[webtoolbar]
+entity = "behavior"
+uuid = "tool"
+score = 10
+
+[malicioustools]
+entity = "behavior"
+uuid = "tool"
+score = 10
+
+[passwordtool]
+entity = "behavior"
+uuid = "tool"
+score = 10
+
+[trojan]
+entity = "behavior"
+path = "generic"
+score = 10
+
+[troan]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[trj]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[trojanautoit]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[trojanclicker]
+entity = "behavior"
+uuid = "clicker"
+score = 10
+
+[trojandownloader]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[trojannotifier]
+entity = "behavior"
+uuid = "notifier"
+score = 10
+
+[trojanproxy]
+entity = "behavior"
+uuid = "proxy"
+score = 10
+
+[trojanspy]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[virtool]
+entity = "behavior"
+path = "tool"
+score = 10
+
+[virus]
+entity = "behavior"
+score = 10
+
+[virusorg]
+entity = "behavior"
+uuid = "virus"
+score = 10
+
+[worm]
+entity = "behavior"
+score = 10
+
+[wormmsil]
+entity = "behavior"
+uuid = "worm"
+score = 10
+
+[android]
+entity = "platform"
+path = "os"
+score = 10
+
+[androidos]
+entity = "platform"
+path = "os"
+uuid = "android"
+score = 10
+
+[andr]
+entity = "platform"
+path = "os"
+uuid = "android"
+score = 10
+
+[apk]
+entity = "platform"
+path = "file"
+score = 10
+
+[elf]
+entity = "platform"
+path = "file"
+score = 10
+
+[epoc]
+entity = "platform"
+path = "os"
+score = 10
+
+[freebsd]
+entity = "platform"
+path = "os"
+score = 10
+
+[iphoneos]
+entity = "platform"
+path = "os"
+uuid = "iphone"
+score = 10
+
+[java]
+entity = "platform"
+path = "script"
+score = 10
+
+[linux]
+entity = "platform"
+path = "os"
+score = 10
+
+[macos]
+entity = "platform"
+path = "os"
+score = 10
+
+[palm]
+entity = "platform"
+path = "os"
+score = 10
+
+[solaris]
+entity = "platform"
+path = "os"
+score = 10
+
+[sunos]
+entity = "platform"
+path = "os"
+score = 10
+
+[symbos]
+entity = "platform"
+path = "os"
+score = 10
+
+[unix]
+entity = "platform"
+path = "os"
+score = 10
+
+[win]
+entity = "platform"
+path = "os"
+uuid = "windows"
+score = 10
+
+[win2k]
+entity = "platform"
+path = "os"
+uuid = "windows"
+score = 10
+
+[wince]
+entity = "platform"
+path = "os"
+uuid = "windows"
+score = 10
+
+[winnt]
+entity = "platform"
+path = "os"
+uuid = "windows"
+score = 10
+
+[script]
+entity = "platform"
+score = 10
+
+[abtrojan]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[addisplay]
+entity = "behavior"
+path = "adware"
+score = 10
+
+[adlibrary]
+entity = "behavior"
+path = "adware"
+score = 10
+
+[application]
+entity = "behavior"
+path = "grayware"
+score = 10
+
+[applicunsaf]
+entity = "behavior"
+score = 10
+
+[applicunwnt]
+entity = "behavior"
+path = "grayware"
+score = 10
+
+[apprisk]
+entity = "behavior"
+score = 10
+
+[backdoorapt]
+entity = "behavior"
+uuid = "apt"
+score = 10
+
+[backdr]
+entity = "behavior"
+uuid = "backdoor"
+score = 10
+
+[banker]
+entity = "behavior"
+score = 10
+
+[bckdoor]
+entity = "behavior"
+uuid = "backdoor"
+score = 10
+
+[bdoor]
+entity = "behavior"
+uuid = "backdoor"
+score = 10
+
+[bdr]
+entity = "behavior"
+uuid = "backdoor"
+score = 10
+
+[bkdr]
+entity = "behavior"
+uuid = "backdoor"
+score = 10
+
+[botnet]
+entity = "behavior"
+score = 10
+
+[clicker]
+entity = "behavior"
+score = 10
+
+[downloaderclicker]
+entity = "behavior"
+uuid = "clicker"
+score = 10
+
+[ddostool]
+entity = "behavior"
+uuid = "ddos"
+score = 10
+
+[dldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[download]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[drop]
+entity = "behavior"
+uuid = "dropper"
+score = 10
+
+[dropped]
+entity = "behavior"
+uuid = "dropper"
+score = 10
+
+[expense]
+entity = "behavior"
+score = 10
+
+[expl]
+entity = "behavior"
+uuid = "exploit"
+score = 10
+
+[flooder]
+entity = "behavior"
+score = 10
+
+[fraud]
+entity = "behavior"
+score = 10
+
+[fraudtool]
+entity = "behavior"
+uuid = "fraud"
+score = 10
+
+[gendownloader]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[gray]
+entity = "behavior"
+uuid = "grayware"
+score = 10
+
+[grayware]
+entity = "behavior"
+score = 10
+
+[hack]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[hackingtool]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[hackingtools]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[hktl]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[htool]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[hijacker]
+entity = "behavior"
+score = 10
+
+[hijack]
+entity = "behavior"
+score = 10
+
+[hllw]
+entity = "behavior"
+score = 10
+
+[hoax]
+entity = "behavior"
+score = 10
+
+[infostealer]
+entity = "behavior"
+score = 10
+
+[loader]
+entity = "behavior"
+score = 10
+
+[memscan]
+entity = "behavior"
+score = 10
+
+[miner]
+entity = "behavior"
+score = 10
+
+[miners]
+entity = "behavior"
+uuid = "miner"
+score = 10
+
+[monitor]
+entity = "behavior"
+score = 10
+
+[monitoring]
+entity = "behavior"
+score = 10
+
+[nettool]
+entity = "behavior"
+path = "tool"
+score = 10
+
+[passwordstealer]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[payment]
+entity = "behavior"
+score = 10
+
+[possiblethreat]
+entity = "behavior"
+uuid = "pua"
+score = 10
+
+[potentialrisk]
+entity = "behavior"
+uuid = "pua"
+score = 10
+
+[privacy]
+entity = "behavior"
+score = 10
+
+[privacyrisk]
+entity = "behavior"
+uuid = "privacy"
+score = 10
+
+[pswtool]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[pswtroj]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[puaadvertising]
+entity = "behavior"
+path = "pua"
+score = 10
+
+[puf]
+entity = "behavior"
+uuid = "pua"
+score = 10
+
+[ransomeware]
+entity = "behavior"
+score = 10
+
+[ransomheur]
+entity = "behavior"
+uuid = "ransomeware"
+score = 10
+
+[rat]
+entity = "behavior"
+score = 10
+
+[remote]
+entity = "behavior"
+score = 10
+
+[risktool]
+entity = "behavior"
+path = "tool"
+score = 10
+
+[rkit]
+entity = "behavior"
+uuid = "rootkit"
+score = 10
+
+[secrisk]
+entity = "behavior"
+path = "pua"
+uuid = "securityrisk"
+score = 10
+
+[securityrisk]
+entity = "behavior"
+score = 10
+
+[smsflooder]
+entity = "behavior"
+path = "flooder"
+score = 10
+
+[sorter]
+entity = "behavior"
+score = 10
+
+[spybanker]
+entity = "behavior"
+uuid = "banker"
+score = 10
+
+[stalk]
+entity = "behavior"
+score = 10
+
+[suspicious]
+entity = "behavior"
+path = "pua"
+score = 10
+
+[suspicioustrojan]
+entity = "behavior"
+path = "pua"
+uuid = "suspicious"
+score = 10
+
+[tjndroppr]
+entity = "behavior"
+uuid = "dropper"
+score = 10
+
+[trjoan]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[troj]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[trojaapt]
+entity = "behavior"
+uuid = "apt"
+score = 10
+
+[trojain]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[trojanapt]
+entity = "behavior"
+uuid = "apt"
+score = 10
+
+[trojanbanker]
+entity = "behavior"
+uuid = "banker"
+score = 10
+
+[trojandropper]
+entity = "behavior"
+uuid = "dropper"
+score = 10
+
+[trojanpos]
+entity = "behavior"
+score = 10
+
+[trojanpsw]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[trojanpws]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[trojanransom]
+entity = "behavior"
+uuid = "ransomeware"
+score = 10
+
+[trojdownloader]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[trojspy]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[trojware]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[tspy]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[unwanted]
+entity = "behavior"
+uuid = "pua"
+score = 10
+
+[wrm]
+entity = "behavior"
+uuid = "worm"
+score = 10
+
+[androidsms]
+entity = "platform"
+score = 10
+
+[appcare]
+entity = "platform"
+score = 10
+
+[autoit]
+entity = "platform"
+path = "script"
+score = 10
+
+[autoitscript]
+entity = "platform"
+path = "script"
+score = 10
+
+[delphi]
+entity = "platform"
+score = 10
+
+[dos]
+entity = "platform"
+path = "os"
+score = 10
+
+[efi]
+entity = "platform"
+path = "file"
+score = 10
+
+[elfarm]
+entity = "platform"
+path = "file"
+score = 10
+
+[email]
+entity = "platform"
+score = 10
+
+[hllm]
+entity = "platform"
+score = 10
+
+[mac]
+entity = "platform"
+path = "os"
+uuid = "macos"
+score = 10
+
+[mint]
+entity = "platform"
+score = 10
+
+[msil]
+entity = "platform"
+score = 10
+
+[multios]
+entity = "platform"
+path = "os"
+score = 10
+
+[nirsoft]
+entity = "platform"
+score = 10
+
+[nsis]
+entity = "platform"
+score = 10
+
+[p2p]
+entity = "platform"
+score = 10
+
+[pdf]
+entity = "platform"
+path = "file"
+score = 10
+
+[php]
+entity = "platform"
+path = "script"
+score = 10
+
+[powershell]
+entity = "platform"
+score = 10
+
+[python]
+entity = "platform"
+path = "script"
+score = 10
+
+[scriptsh]
+entity = "platform"
+path = "script"
+score = 10
+
+[sms]
+entity = "platform"
+score = 10
+
+[system]
+entity = "platform"
+score = 10
+
+[uefi]
+entity = "platform"
+score = 10
+
+[vbs]
+entity = "platform"
+path = "script"
+score = 10
+
+[w97m]
+entity = "platform"
+score = 10
+
+[trojansms]
+entity = "behavior"
+uuid = "sms"
+score = 10
+
+[windows]
+entity = "platform"
+path = "os"
+score = 10
+
+[html]
+entity = "platform"
+path = "script"
+score = 10
+
+[rtkt]
+entity = "behavior"
+uuid = "rootkit"
+score = 10
+
+[spyw]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[trjndwnldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[imworm]
+entity = "behavior"
+uuid = "worm"
+score = 10
+
+[trojandwnldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[virusconstructor]
+entity = "behavior"
+uuid = "constructor"
+score = 10
+
+[swbndlr]
+entity = "behavior"
+score = 10
+
+[tjndownldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[trojanmailfinder]
+entity = "behavior"
+uuid = "mailfinder"
+score = 10
+
+[tjnpws]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[trojangamethief]
+entity = "behavior"
+uuid = "gamethief"
+score = 10
+
+[tjnspy]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[heurspy]
+entity = "behavior"
+uuid = "spyware"
+score = 10
+
+[crck]
+entity = "behavior"
+uuid = "crack"
+score = 10
+
+[constructorkit]
+entity = "behavior"
+uuid = "constructor"
+score = 10
+
+[toolkit]
+entity = "behavior"
+score = 10
+
+[fdos]
+entity = "platform"
+score = 10
+
+[behavesliketrojan]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[bunder]
+entity = "platform"
+score = 10
+
+[hllc]
+entity = "behavior"
+score = 10
+
+[adwareare]
+entity = "behavior"
+uuid = "adware"
+score = 10
+
+[stealer]
+entity = "behavior"
+score = 10
+
+[winxx]
+entity = "platform"
+uuid = "windows"
+score = 10
+
+[bundler]
+entity = "behavior"
+score = 10
+
+[androidelf]
+entity = "platform"
+path = "file"
+uuid = "elf"
+score = 10
+
+[qqmsg]
+entity = "platform"
+score = 10
+
+[luhe]
+entity = "platform"
+score = 10
+
+[win9x]
+entity = "platform"
+uuid = "windows"
+score = 10
+
+[remoteapp]
+entity = "behavior"
+score = 10
+
+[serverproxy]
+entity = "behavior"
+uuid = "proxy"
+score = 10
+
+[smtp]
+entity = "platform"
+score = 10
+
+[clientsmtp]
+entity = "platform"
+uuid = "smtp"
+score = 10
+
+[brmodifier]
+entity = "behavior"
+score = 10
+
+[programfilesdir]
+entity = "behavior"
+score = 10
+
+[memscanbackdoor]
+entity = "behavior"
+path = "backdoor"
+score = 10
+
+[trjndropper]
+entity = "behavior"
+uuid = "dropper"
+score = 10
+
+[w9x]
+entity = "platform"
+score = 10
+
+[registry]
+entity = "platform"
+score = 10
+
+[downloaderdropper]
+entity = "behavior"
+score = 10
+
+[wininf]
+entity = "platform"
+score = 10
+
+[downldr]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[hllo]
+entity = "behavior"
+score = 10
+
+[advware]
+entity = "behavior"
+uuid = "adware"
+score = 10
+
+[rogueantispyware]
+entity = "behavior"
+score = 10
+
+[appl]
+entity = "behavior"
+score = 10
+
+[pwtool]
+entity = "behavior"
+score = 10
+
+[trojantrojan]
+entity = "behavior"
+path = "generic"
+uuid = "trojan"
+score = 10
+
+[drpsw]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[hackertool]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[troyano]
+entity = "behavior"
+score = 10
+
+[sprtool]
+entity = "behavior"
+score = 10
+
+[gamethief]
+entity = "behavior"
+score = 10
+
+[puabundler]
+entity = "behavior"
+uuid = "bundler"
+score = 10
+
+[puadlmanager]
+entity = "behavior"
+uuid = "pua"
+score = 10
+
+[spam]
+entity = "behavior"
+uuid = "spammer"
+score = 10
+
+[cryptor]
+entity = "behavior"
+score = 10
+
+[cryp]
+entity = "behavior"
+uuid = "cryptor"
+score = 10
+
+[crypt]
+entity = "behavior"
+uuid = "cryptor"
+score = 10
+
+[trcrypt]
+entity = "behavior"
+uuid = "cryptor"
+score = 10
+
+[sftwrbndlr]
+entity = "behavior"
+uuid = "softwarebundler"
+score = 10
+
+[hacktools]
+entity = "behavior"
+uuid = "hacktool"
+score = 10
+
+[remoteadmin]
+entity = "behavior"
+score = 10
+
+[remadm]
+entity = "behavior"
+uuid = "remoteadmin"
+score = 10
+
+[downloaderpsw]
+entity = "behavior"
+uuid = "pws"
+score = 10
+
+[freeloader]
+entity = "behavior"
+uuid = "loader"
+score = 10
+
+[browsermodifier]
+entity = "behavior"
+score = 10
+
+[browsermod]
+entity = "behavior"
+uuid = "browsermodifier"
+score = 10
+
+[hostmodifier]
+entity = "behavior"
+score = 10
+
+[wormautoit]
+entity = "behavior"
+path = "worm"
+score = 10
+
+[potentiallyunwanted]
+entity = "behavior"
+uuid = "pua"
+score = 10
+
+[rogue]
+entity = "behavior"
+uuid = "rogueware"
+score = 10
+
+[rogueware]
+entity = "behavior"
+score = 10
+
+[w32s]
+entity = "platform"
+path = "os"
+uuid = "windows"
+score = 10
+
+[dnftrojan]
+entity = "behavior"
+score = 10
+
+[trojanim]
+entity = "behavior"
+score = 10
+
+[adspy]
+entity = "behavior"
+path = "spyware"
+score = 10
+
+[joketool]
+entity = "behavior"
+score = 10
+
+[trbanker]
+entity = "behavior"
+uuid = "banker"
+score = 10
+
+[msexcel]
+entity = "platform"
+score = 10
+
+[trpck]
+entity = "behavior"
+score = 10
+
+[dial]
+entity = "behavior"
+uuid = "dialer"
+score = 10
+
+[dialer]
+entity = "behavior"
+score = 10
+
+[softwarebundlr]
+entity = "behavior"
+uuid = "softwarebundler"
+score = 10
+
+[softwarebndlr]
+entity = "behavior"
+uuid = "softwarebundler"
+score = 10
+
+[sftwrebndlr]
+entity = "behavior"
+uuid = "softwarebundler"
+score = 10
+
+[downware]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[avtool]
+entity = "behavior"
+score = 10
+
+[tjnclicker]
+entity = "behavior"
+score = 10
+
+[trojandwnlder]
+entity = "behavior"
+uuid = "downloader"
+score = 10
+
+[sigadware]
+entity = "behavior"
+uuid = "adware"
+score = 10
+
+[trackware]
+entity = "behavior"
+score = 10
+
+[phisher]
+entity = "behavior"
+score = 10
+
+[systemmodifier]
+entity = "behavior"
+score = 10
+
+[jokeprograms]
+entity = "behavior"
+score = 10
+
+[symbian]
+entity = "platform"
+score = 10
+
+[phalcon]
+entity = "platform"
+score = 10
+
+[chrome]
+entity = "platform"
+score = 10
+
+[chromex]
+entity = "platform"
+uuid = "chrome"
+score = 10

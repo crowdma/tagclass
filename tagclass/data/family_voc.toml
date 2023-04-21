@@ -1,0 +1,484 @@
+[laet]
+entity = "family"
+score = 10
+
+[carima]
+entity = "family"
+score = 10
+
+[dialmin]
+entity = "family"
+score = 10
+
+[dialxlite]
+entity = "family"
+score = 10
+
+[inoco]
+entity = "family"
+score = 10
+
+[sitromba]
+entity = "family"
+score = 10
+
+[nwmini]
+entity = "family"
+score = 10
+
+[shortdial]
+entity = "family"
+score = 10
+
+[trafficadvance]
+entity = "family"
+score = 10
+
+[dlrdir]
+entity = "family"
+score = 10
+
+[ulubione]
+entity = "family"
+score = 10
+
+[chivio]
+entity = "family"
+score = 10
+
+[carpe]
+entity = "family"
+score = 10
+
+[gnet]
+entity = "family"
+score = 10
+
+[rapido]
+entity = "family"
+score = 10
+
+[luca]
+entity = "family"
+score = 10
+
+[sfonditalia]
+entity = "family"
+score = 10
+
+[goin]
+entity = "family"
+score = 10
+
+[tibsys]
+entity = "family"
+score = 10
+
+[mostrar]
+entity = "family"
+score = 10
+
+[modem]
+entity = "family"
+score = 10
+
+[trojanfakeav]
+entity = "family"
+uuid = "fakeav"
+score = 10
+
+[virusdoctor]
+entity = "family"
+score = 10
+
+[pwszbot]
+entity = "family"
+uuid = "zbot"
+score = 10
+
+[keylogger]
+entity = "family"
+score = 10
+
+[keylog]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[allinonekeylogger]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[keyl]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[stawin]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[handykey]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[handy]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[invisiblekeylogger]
+entity = "family"
+uuid = "keylogger"
+score = 10
+
+[perfectkeylogger]
+entity = "family"
+score = 10
+
+[keyloggerpro]
+entity = "family"
+score = 10
+
+[freelogger]
+entity = "family"
+score = 10
+
+[typerecorder]
+entity = "family"
+score = 10
+
+[clientirc]
+entity = "family"
+score = 10
+
+[mirc]
+entity = "family"
+score = 10
+
+[skodna]
+entity = "family"
+score = 10
+
+[suspectcrc]
+entity = "family"
+score = 10
+
+[keygen]
+entity = "family"
+score = 10
+
+[autodesk]
+entity = "family"
+score = 10
+
+[nero]
+entity = "family"
+score = 10
+
+[fakeav]
+entity = "family"
+score = 10
+
+[antivirusapp]
+entity = "family"
+score = 10
+
+[securitymasterav]
+entity = "family"
+score = 10
+
+[privacyprotecti]
+entity = "family"
+score = 10
+
+[sevas]
+entity = "family"
+score = 10
+
+[fakealert]
+entity = "family"
+score = 10
+
+[winweb]
+entity = "family"
+score = 10
+
+[defcnt]
+entity = "family"
+score = 10
+
+[maldoctor]
+entity = "family"
+score = 10
+
+[winaso]
+entity = "family"
+score = 10
+
+[optimizer]
+entity = "family"
+score = 10
+
+[bo2k]
+entity = "family"
+score = 10
+
+[stcpio]
+entity = "family"
+score = 10
+
+[rattler]
+entity = "family"
+score = 10
+
+[sendkeys]
+entity = "family"
+score = 10
+
+[sysguard]
+entity = "family"
+score = 10
+
+[jorik]
+entity = "family"
+score = 10
+
+[pournf]
+entity = "family"
+score = 10
+
+[vobfu]
+entity = "family"
+score = 10
+
+[mokesloader]
+entity = "family"
+score = 10
+
+[hovel]
+entity = "family"
+score = 10
+
+[pornware]
+entity = "family"
+score = 10
+
+[coumb]
+entity = "family"
+score = 10
+
+[wannacry]
+entity = "family"
+score = 10
+
+[wannacash]
+entity = "family"
+uuid = "wannacry"
+score = 10
+
+[wannacrydbh]
+entity = "family"
+uuid = "wannacry"
+score = 10
+
+[wanna]
+entity = "family"
+uuid = "wannacry"
+score = 10
+
+[wannacrypt]
+entity = "family"
+uuid = "wannacry"
+score = 10
+
+[qqphish]
+entity = "family"
+uuid = "qqfish"
+score = 10
+
+[qqfish]
+entity = "family"
+score = 10
+
+[xpseccenter]
+entity = "family"
+score = 10
+
+[crypted]
+entity = "family"
+score = 10
+
+[hiddenext]
+entity = "family"
+path = "crypted"
+score = 10
+
+[cloudprotector]
+entity = "family"
+score = 10
+
+[coinminer]
+entity = "family"
+score = 10
+
+[toolbtc]
+entity = "family"
+uuid = "bitcoinminer"
+score = 10
+
+[delf]
+entity = "family"
+score = 10
+
+[semnomeb]
+entity = "family"
+score = 10
+
+[qqpsw]
+entity = "family"
+uuid = "qqpws"
+score = 10
+
+[qqpws]
+entity = "family"
+score = 10
+
+[qcdrop]
+entity = "family"
+score = 10
+
+[qmdao]
+entity = "family"
+score = 10
+
+[qqrob]
+entity = "family"
+score = 10
+
+[porndialer]
+entity = "family"
+score = 10
+
+[sexboard]
+entity = "family"
+score = 10
+
+[concerto]
+entity = "family"
+score = 10
+
+[revenyou]
+entity = "family"
+score = 10
+
+[outbrowse]
+entity = "family"
+score = 10
+
+[soels]
+entity = "family"
+score = 10
+
+[hiddenshock]
+entity = "family"
+score = 10
+
+[giant]
+entity = "family"
+score = 10
+
+[zango]
+entity = "family"
+score = 10
+
+[pinball]
+entity = "family"
+score = 10
+
+[stiratel]
+entity = "family"
+score = 10
+
+[safezone]
+entity = "family"
+score = 10
+
+[adgateway]
+entity = "family"
+score = 10
+
+[timesink]
+entity = "family"
+score = 10
+
+[pwcrack]
+entity = "family"
+score = 10
+
+[proxycrack]
+entity = "family"
+score = 10
+
+[johntherippr]
+entity = "family"
+score = 10
+
+[singleclickoptimizer]
+entity = "family"
+score = 10
+
+[pchealthcenter]
+entity = "family"
+score = 10
+
+[bargainbuddy]
+entity = "family"
+score = 10
+
+[navisearch]
+entity = "family"
+score = 10
+
+[todownload]
+entity = "family"
+score = 10
+
+[installcore]
+entity = "family"
+score = 10
+
+[dock]
+entity = "family"
+score = 10
+
+[bubble]
+entity = "family"
+score = 10
+
+[singleclick]
+entity = "family"
+score = 10
+
+[equation]
+entity = "family"
+score = 10
+
+[eternalromance]
+entity = "family"
+score = 10
+
+[doublepulsar]
+entity = "family"
+score = 10
+
+[eltim]
+entity = "family"
+score = 10
+
+[webshell]
+entity = "family"
+score = 10

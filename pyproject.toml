@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "tagclass"
+version = "0.1.0"
+description = "TagClass: A Tool for Extracting Class-determined Tags from Massive Malware Labels"
+authors = ["jyker <jyk.kongkong@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8 <3.9"
+typer = "0.7.0"
+rich = '13.1.0'
+toml = "0.10.2"
+pyparsing = "3.0.9"
+pyrootutils = ^1.0.4"
+seqeval = "1.2.2"
+pyarrow = "11.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest-cov = "3.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+tagclass = 'tagclass.cli:main'

@@ -1,0 +1,10868 @@
+[malicious]
+entity = "misc"
+score = 10
+
+[malware]
+entity = "misc"
+score = 10
+
+[malsign]
+entity = "misc"
+score = 10
+
+[artemis]
+entity = "misc"
+score = 10
+
+[generic]
+entity = "misc"
+score = 10
+
+[agent]
+entity = "misc"
+score = 10
+
+[save]
+entity = "misc"
+score = 10
+
+[heur]
+entity = "misc"
+score = 10
+
+[variant]
+entity = "misc"
+score = 10
+
+[7zip]
+entity = "misc"
+score = 10
+
+[abur]
+entity = "misc"
+score = 10
+
+[adal]
+entity = "misc"
+score = 10
+
+[addsub]
+entity = "misc"
+score = 10
+
+[aidetect]
+entity = "misc"
+score = 10
+
+[aidetectgbm]
+entity = "misc"
+score = 10
+
+[aidetectnet]
+entity = "misc"
+score = 10
+
+[aidetectvm]
+entity = "misc"
+score = 10
+
+[ait]
+entity = "misc"
+score = 10
+
+[amvw]
+entity = "misc"
+score = 10
+
+[and]
+entity = "misc"
+score = 10
+
+[anomalous]
+entity = "misc"
+score = 10
+
+[ant]
+entity = "misc"
+score = 10
+
+[anti]
+entity = "misc"
+score = 10
+
+[antivirus]
+entity = "misc"
+score = 10
+
+[any]
+entity = "misc"
+score = 10
+
+[api]
+entity = "misc"
+score = 10
+
+[archive]
+entity = "misc"
+score = 10
+
+[are]
+entity = "misc"
+score = 10
+
+[artifact]
+entity = "misc"
+score = 10
+
+[aspack]
+entity = "misc"
+score = 10
+
+[ati]
+entity = "misc"
+score = 10
+
+[atk]
+entity = "misc"
+score = 10
+
+[atm]
+entity = "misc"
+score = 10
+
+[attack]
+entity = "misc"
+score = 10
+
+[attribute]
+entity = "misc"
+score = 10
+
+[auto]
+entity = "misc"
+score = 10
+
+[autorun]
+entity = "misc"
+score = 10
+
+[autoruninf]
+entity = "misc"
+score = 10
+
+[autoruner]
+entity = "misc"
+score = 10
+
+[autoruns]
+entity = "misc"
+score = 10
+
+[avtest]
+entity = "misc"
+score = 10
+
+[bad]
+entity = "misc"
+score = 10
+
+[badfile]
+entity = "misc"
+score = 10
+
+[bai]
+entity = "misc"
+score = 10
+
+[basic]
+entity = "misc"
+score = 10
+
+[bat]
+entity = "misc"
+score = 10
+
+[bck]
+entity = "misc"
+score = 10
+
+[bdokai]
+entity = "misc"
+score = 10
+
+[bds]
+entity = "misc"
+score = 10
+
+[beg]
+entity = "misc"
+score = 10
+
+[behaveslike]
+entity = "misc"
+score = 10
+
+[behavior]
+entity = "misc"
+score = 10
+
+[bho]
+entity = "misc"
+score = 10
+
+[big]
+entity = "misc"
+score = 10
+
+[bod]
+entity = "misc"
+score = 10
+
+[bog]
+entity = "misc"
+score = 10
+
+[boy]
+entity = "misc"
+score = 10
+
+[bscope]
+entity = "misc"
+score = 10
+
+[cat]
+entity = "misc"
+score = 10
+
+[certificate]
+entity = "misc"
+score = 10
+
+[cil]
+entity = "misc"
+score = 10
+
+[ciszm]
+entity = "misc"
+score = 10
+
+[classic]
+entity = "misc"
+score = 10
+
+[cloud]
+entity = "misc"
+score = 10
+
+[cobaltstrike]
+entity = "misc"
+score = 10
+
+[common]
+entity = "misc"
+score = 10
+
+[component]
+entity = "misc"
+score = 10
+
+[confidence]
+entity = "misc"
+score = 10
+
+[consumption]
+entity = "misc"
+score = 10
+
+[corrupt]
+entity = "misc"
+score = 10
+
+[countermeasure]
+entity = "misc"
+score = 10
+
+[cqu]
+entity = "misc"
+score = 10
+
+[cve]
+entity = "misc"
+score = 10
+
+[dacic]
+entity = "misc"
+score = 10
+
+[daemon]
+entity = "misc"
+score = 10
+
+[damaged]
+entity = "misc"
+score = 10
+
+[dampatch]
+entity = "misc"
+score = 10
+
+[dangerousobject]
+entity = "misc"
+score = 10
+
+[deepscan]
+entity = "misc"
+score = 10
+
+[detected]
+entity = "misc"
+score = 10
+
+[detections]
+entity = "misc"
+score = 10
+
+[dfi]
+entity = "misc"
+score = 10
+
+[dgs]
+entity = "misc"
+score = 10
+
+[diyw]
+entity = "misc"
+score = 10
+
+[dlfd]
+entity = "misc"
+score = 10
+
+[dma]
+entity = "misc"
+score = 10
+
+[dotnetfile]
+entity = "misc"
+score = 10
+
+[driver]
+entity = "misc"
+score = 10
+
+[ear]
+entity = "misc"
+score = 10
+
+[eheur]
+entity = "misc"
+score = 10
+
+[eicar]
+entity = "misc"
+score = 10
+
+[eicartest]
+entity = "misc"
+score = 10
+
+[eicartestvirus]
+entity = "misc"
+score = 10
+
+[eldorado]
+entity = "misc"
+score = 10
+
+[encoded]
+entity = "misc"
+score = 10
+
+[engine]
+entity = "misc"
+score = 10
+
+[enigma]
+entity = "misc"
+score = 10
+
+[enigmaprotect]
+entity = "misc"
+score = 10
+
+[enigmaprotector]
+entity = "misc"
+score = 10
+
+[error]
+entity = "misc"
+score = 10
+
+[evo]
+entity = "misc"
+score = 10
+
+[exe]
+entity = "misc"
+score = 10
+
+[execute]
+entity = "misc"
+score = 10
+
+[exeheaderh]
+entity = "misc"
+score = 10
+
+[famvt]
+entity = "misc"
+score = 10
+
+[favz]
+entity = "misc"
+score = 10
+
+[fcms]
+entity = "misc"
+score = 10
+
+[ffmt]
+entity = "misc"
+score = 10
+
+[file]
+entity = "misc"
+score = 10
+
+[filp]
+entity = "misc"
+score = 10
+
+[fisd]
+entity = "misc"
+score = 10
+
+[five]
+entity = "misc"
+score = 10
+
+[foni]
+entity = "misc"
+score = 10
+
+[frpg]
+entity = "misc"
+score = 10
+
+[frqh]
+entity = "misc"
+score = 10
+
+[fsoe]
+entity = "misc"
+score = 10
+
+[fstx]
+entity = "misc"
+score = 10
+
+[gap]
+entity = "misc"
+score = 10
+
+[gen]
+entity = "misc"
+score = 10
+
+[genbl]
+entity = "misc"
+score = 10
+
+[general]
+entity = "misc"
+score = 10
+
+[generics]
+entity = "misc"
+score = 10
+
+[generisk]
+entity = "misc"
+score = 10
+
+[genmalicious]
+entity = "misc"
+score = 10
+
+[hdd]
+entity = "misc"
+score = 10
+
+[hdss]
+entity = "misc"
+score = 10
+
+[heurc]
+entity = "misc"
+score = 10
+
+[heuristic]
+entity = "misc"
+score = 10
+
+[hgiasooa]
+entity = "misc"
+score = 10
+
+[high]
+entity = "misc"
+score = 10
+
+[highconfidence]
+entity = "misc"
+score = 10
+
+[hllie]
+entity = "misc"
+score = 10
+
+[hllp]
+entity = "misc"
+score = 10
+
+[hllsi]
+entity = "misc"
+score = 10
+
+[ibak]
+entity = "misc"
+score = 10
+
+[icon]
+entity = "misc"
+score = 10
+
+[infected]
+entity = "misc"
+score = 10
+
+[ini]
+entity = "misc"
+score = 10
+
+[install]
+entity = "misc"
+score = 10
+
+[invalidsig]
+entity = "misc"
+score = 10
+
+[ioc]
+entity = "misc"
+score = 10
+
+[irc]
+entity = "misc"
+score = 10
+
+[jiho]
+entity = "misc"
+score = 10
+
+[kcloud]
+entity = "misc"
+score = 10
+
+[ktse]
+entity = "misc"
+score = 10
+
+[kvm]
+entity = "misc"
+score = 10
+
+[kvmh]
+entity = "misc"
+score = 10
+
+[lin]
+entity = "misc"
+score = 10
+
+[lookslike]
+entity = "misc"
+score = 10
+
+[low]
+entity = "misc"
+score = 10
+
+[machinelearning]
+entity = "misc"
+score = 10
+
+[mal]
+entity = "misc"
+score = 10
+
+[malagent]
+entity = "misc"
+score = 10
+
+[malpacked]
+entity = "misc"
+score = 10
+
+[malpe]
+entity = "misc"
+score = 10
+
+[malwthreat]
+entity = "misc"
+score = 10
+
+[map]
+entity = "misc"
+score = 10
+
+[marker]
+entity = "misc"
+score = 10
+
+[maximus]
+entity = "misc"
+score = 10
+
+[media]
+entity = "misc"
+score = 10
+
+[microsoft]
+entity = "misc"
+score = 10
+
+[misc]
+entity = "misc"
+score = 10
+
+[missused]
+entity = "misc"
+score = 10
+
+[mlw]
+entity = "misc"
+score = 10
+
+
+[mobi]
+entity = "misc"
+score = 10
+
+[mobile]
+entity = "misc"
+score = 10
+
+[multi]
+entity = "misc"
+score = 10
+
+[multipacked]
+entity = "misc"
+score = 10
+
+[multiple]
+entity = "misc"
+score = 10
+
+[mupx]
+entity = "misc"
+score = 10
+
+[net]
+entity = "misc"
+score = 10
+
+[new]
+entity = "misc"
+score = 10
+
+[noname]
+entity = "misc"
+score = 10
+
+[none]
+entity = "misc"
+score = 10
+
+[nor]
+entity = "misc"
+score = 10
+
+[not]
+entity = "misc"
+score = 10
+
+[notathreat]
+entity = "misc"
+score = 10
+
+[notcompatible]
+entity = "misc"
+score = 10
+
+[novirus]
+entity = "misc"
+score = 10
+
+[now]
+entity = "misc"
+score = 10
+
+[nsanti]
+entity = "misc"
+score = 10
+
+[nsispacker]
+entity = "misc"
+score = 10
+
+[nullsoft]
+entity = "misc"
+score = 10
+
+[obfus]
+entity = "misc"
+score = 10
+
+[obfuscated]
+entity = "misc"
+score = 10
+
+[olympus]
+entity = "misc"
+score = 10
+
+[origin]
+entity = "misc"
+score = 10
+
+[other]
+entity = "misc"
+score = 10
+
+[pack]
+entity = "misc"
+score = 10
+
+[packed]
+entity = "misc"
+score = 10
+
+[packedgen]
+entity = "misc"
+score = 10
+
+[packer]
+entity = "misc"
+score = 10
+
+[password]
+entity = "misc"
+score = 10
+
+[patched]
+entity = "misc"
+score = 10
+
+[pck]
+entity = "misc"
+score = 10
+
+[pelock]
+entity = "misc"
+score = 10
+
+[per]
+entity = "misc"
+score = 10
+
+[pimp]
+entity = "misc"
+score = 10
+
+[place]
+entity = "misc"
+score = 10
+
+[posible]
+entity = "misc"
+score = 10
+
+[possible]
+entity = "misc"
+score = 10
+
+[potentially]
+entity = "misc"
+score = 10
+
+[probably]
+entity = "misc"
+score = 10
+
+[proxy]
+entity = "misc"
+score = 10
+
+[qvm]
+entity = "misc"
+score = 10
+
+[ran]
+entity = "misc"
+score = 10
+
+[rar]
+entity = "misc"
+score = 10
+
+[raw]
+entity = "misc"
+score = 10
+
+[rdm]
+entity = "misc"
+score = 10
+
+[rdn]
+entity = "misc"
+score = 10
+
+[recovery]
+entity = "misc"
+score = 10
+
+[relationship]
+entity = "misc"
+score = 10
+
+[remacc]
+entity = "misc"
+score = 10
+
+[reputation]
+entity = "misc"
+score = 10
+
+[rfn]
+entity = "misc"
+score = 10
+
+[risk]
+entity = "misc"
+score = 10
+
+[rtm]
+entity = "misc"
+score = 10
+
+[rule]
+entity = "misc"
+score = 10
+
+[scan]
+entity = "misc"
+score = 10
+
+[score]
+entity = "misc"
+score = 10
+
+[scr]
+entity = "misc"
+score = 10
+
+[ser]
+entity = "misc"
+score = 10
+
+[signature]
+entity = "misc"
+score = 10
+
+[small]
+entity = "misc"
+score = 10
+
+[smg]
+entity = "misc"
+score = 10
+
+[software]
+entity = "misc"
+score = 10
+
+[spr]
+entity = "misc"
+score = 10
+
+[srar]
+entity = "misc"
+score = 10
+
+[sray]
+entity = "misc"
+score = 10
+
+[sscope]
+entity = "misc"
+score = 10
+
+[static]
+entity = "misc"
+score = 10
+
+[status]
+entity = "misc"
+score = 10
+
+[susgen]
+entity = "misc"
+score = 10
+
+[susp]
+entity = "misc"
+score = 10
+
+[suspected]
+entity = "misc"
+score = 10
+
+[susppack]
+entity = "misc"
+score = 10
+
+[tdss]
+entity = "misc"
+score = 10
+
+[test]
+entity = "misc"
+score = 10
+
+[testfile]
+entity = "misc"
+score = 10
+
+[testjm]
+entity = "misc"
+score = 10
+
+[themida]
+entity = "misc"
+score = 10
+
+[themidapacked]
+entity = "misc"
+score = 10
+
+[threat]
+entity = "misc"
+score = 10
+
+[threatlookup]
+entity = "misc"
+score = 10
+
+[thunder]
+entity = "misc"
+score = 10
+
+[topis]
+entity = "misc"
+score = 10
+
+[tor]
+entity = "misc"
+score = 10
+
+[troll]
+entity = "misc"
+score = 10
+
+[tscope]
+entity = "misc"
+score = 10
+
+[txt]
+entity = "misc"
+score = 10
+
+[uds]
+entity = "misc"
+score = 10
+
+[unable]
+entity = "misc"
+score = 10
+
+[unclassifiedmalware]
+entity = "misc"
+score = 10
+
+[undef]
+entity = "misc"
+score = 10
+
+[undefined]
+entity = "misc"
+score = 10
+
+[unknown]
+entity = "misc"
+score = 10
+
+[unsafe]
+entity = "misc"
+score = 10
+
+[updater]
+entity = "misc"
+score = 10
+
+[uppyg]
+entity = "misc"
+score = 10
+
+[upx]
+entity = "misc"
+score = 10
+
+[vbpack]
+entity = "misc"
+score = 10
+
+[vbpacked]
+entity = "misc"
+score = 10
+
+[virusname]
+entity = "misc"
+score = 10
+
+[visual]
+entity = "misc"
+score = 10
+
+[vmprotect]
+entity = "misc"
+score = 10
+
+[vmprotectstub]
+entity = "misc"
+score = 10
+
+[wgry]
+entity = "misc"
+score = 10
+
+[xor]
+entity = "misc"
+score = 10
+
+[yav]
+entity = "misc"
+score = 10
+
+[you]
+entity = "misc"
+score = 10
+
+[zedlaf]
+entity = "misc"
+score = 10
+
+[zedlavp]
+entity = "misc"
+score = 10
+
+[zemsilf]
+entity = "misc"
+score = 10
+
+[zenpakpmf]
+entity = "misc"
+score = 10
+
+[zexaco]
+entity = "misc"
+score = 10
+
+[zexae]
+entity = "misc"
+score = 10
+
+[zexaf]
+entity = "misc"
+score = 10
+
+[zexavp]
+entity = "misc"
+score = 10
+
+[zfmer]
+entity = "misc"
+score = 10
+
+[zip]
+entity = "misc"
+score = 10
+
+[zoo]
+entity = "misc"
+score = 10
+
+[zprotect]
+entity = "misc"
+score = 10
+
+[zum]
+entity = "misc"
+score = 10
+
+[zurl]
+entity = "misc"
+score = 10
+
+[bwsr]
+entity = "misc"
+score = 10
+
+[based]
+entity = "misc"
+score = 10
+
+[document]
+entity = "misc"
+score = 10
+
+[disguised]
+entity = "misc"
+score = 10
+
+[var]
+entity = "misc"
+score = 10
+
+[ibis]
+entity = "misc"
+score = 10
+
+[dail]
+entity = "misc"
+score = 10
+
+[fakv]
+entity = "misc"
+score = 10
+
+[cmwt]
+entity = "misc"
+score = 10
+
+[dccc]
+entity = "misc"
+score = 10
+
+[faoj]
+entity = "misc"
+score = 10
+
+[mlite]
+entity = "misc"
+score = 10
+
+[lite]
+entity = "misc"
+score = 10
+
+[favv]
+entity = "misc"
+score = 10
+
+[rdxn]
+entity = "misc"
+score = 10
+
+[cmrtazr]
+entity = "misc"
+score = 10
+
+[rdmk]
+entity = "misc"
+score = 10
+
+[heuristics]
+entity = "misc"
+score = 10
+
+[awus]
+entity = "misc"
+score = 10
+
+[xadx]
+entity = "misc"
+score = 10
+
+[atcu]
+entity = "misc"
+score = 10
+
+[ruiqing]
+entity = "misc"
+score = 10
+
+[technology]
+entity = "misc"
+score = 10
+
+[genvariant]
+entity = "misc"
+score = 10
+
+[cmrtazo]
+entity = "misc"
+score = 10
+
+[renamed]
+entity = "misc"
+score = 10
+
+[zaab]
+entity = "misc"
+score = 10
+
+[admo]
+entity = "misc"
+score = 10
+
+[fams]
+entity = "misc"
+score = 10
+
+[farz]
+entity = "misc"
+score = 10
+
+[zevbaf]
+entity = "misc"
+score = 10
+
+[awek]
+entity = "misc"
+score = 10
+
+[modified]
+entity = "misc"
+score = 10
+
+[aumu]
+entity = "misc"
+score = 10
+
+[afms]
+entity = "misc"
+score = 10
+
+[fdxo]
+entity = "misc"
+score = 10
+
+[fatg]
+entity = "misc"
+score = 10
+
+[faku]
+entity = "misc"
+score = 10
+
+[faoc]
+entity = "misc"
+score = 10
+
+[trak]
+entity = "misc"
+score = 10
+
+[fadh]
+entity = "misc"
+score = 10
+
+[aurv]
+entity = "misc"
+score = 10
+
+[fajm]
+entity = "misc"
+score = 10
+
+[fbdt]
+entity = "misc"
+score = 10
+
+[faot]
+entity = "misc"
+score = 10
+
+[worry]
+entity = "misc"
+score = 10
+
+[abuse]
+entity = "misc"
+score = 10
+
+[beaf]
+entity = "misc"
+score = 10
+
+[beta]
+entity = "misc"
+score = 10
+
+[mblxe]
+entity = "misc"
+score = 10
+
+[fasm]
+entity = "misc"
+score = 10
+
+[faws]
+entity = "misc"
+score = 10
+
+[fasf]
+entity = "misc"
+score = 10
+
+[main]
+entity = "misc"
+score = 10
+
+[boje]
+entity = "misc"
+score = 10
+
+[bhfe]
+entity = "misc"
+score = 10
+
+[acdm]
+entity = "misc"
+score = 10
+
+[free]
+entity = "misc"
+score = 10
+
+[facm]
+entity = "misc"
+score = 10
+
+[fahk]
+entity = "misc"
+score = 10
+
+[aqui]
+entity = "misc"
+score = 10
+
+[famo]
+entity = "misc"
+score = 10
+
+[anvm]
+entity = "misc"
+score = 10
+
+[facv]
+entity = "misc"
+score = 10
+
+[fany]
+entity = "misc"
+score = 10
+
+[bbhn]
+entity = "misc"
+score = 10
+
+[akbx]
+entity = "misc"
+score = 10
+
+[fash]
+entity = "misc"
+score = 10
+
+[famw]
+entity = "misc"
+score = 10
+
+[awaw]
+entity = "misc"
+score = 10
+
+[baxj]
+entity = "misc"
+score = 10
+
+[faso]
+entity = "misc"
+score = 10
+
+[drhe]
+entity = "misc"
+score = 10
+
+[fake]
+entity = "misc"
+score = 10
+
+[bsgl]
+entity = "misc"
+score = 10
+
+[bipp]
+entity = "misc"
+score = 10
+
+[famm]
+entity = "misc"
+score = 10
+
+[dacd]
+entity = "misc"
+score = 10
+
+[fado]
+entity = "misc"
+score = 10
+
+[fasy]
+entity = "misc"
+score = 10
+
+[faoi]
+entity = "misc"
+score = 10
+
+[aloo]
+entity = "misc"
+score = 10
+
+[dbcc]
+entity = "misc"
+score = 10
+
+[xkx]
+entity = "misc"
+score = 10
+
+[safe]
+entity = "misc"
+score = 10
+
+[fasj]
+entity = "misc"
+score = 10
+
+[fatm]
+entity = "misc"
+score = 10
+
+[faxy]
+entity = "misc"
+score = 10
+
+[anun]
+entity = "misc"
+score = 10
+
+[fauj]
+entity = "misc"
+score = 10
+
+[fawl]
+entity = "misc"
+score = 10
+
+[acxm]
+entity = "misc"
+score = 10
+
+[corr]
+entity = "misc"
+score = 10
+
+[faaa]
+entity = "misc"
+score = 10
+
+[fcnm]
+entity = "misc"
+score = 10
+
+[vupc]
+entity = "misc"
+score = 10
+
+[fapo]
+entity = "misc"
+score = 10
+
+[fago]
+entity = "misc"
+score = 10
+
+[bjot]
+entity = "misc"
+score = 10
+
+[aido]
+entity = "misc"
+score = 10
+
+[axlp]
+entity = "misc"
+score = 10
+
+[fasl]
+entity = "misc"
+score = 10
+
+[faco]
+entity = "misc"
+score = 10
+
+[facx]
+entity = "misc"
+score = 10
+
+[dadf]
+entity = "misc"
+score = 10
+
+[best]
+entity = "misc"
+score = 10
+
+[beur]
+entity = "misc"
+score = 10
+
+[favr]
+entity = "misc"
+score = 10
+
+[ajhx]
+entity = "misc"
+score = 10
+
+[agsg]
+entity = "misc"
+score = 10
+
+[febo]
+entity = "misc"
+score = 10
+
+[bwzx]
+entity = "misc"
+score = 10
+
+[dabb]
+entity = "misc"
+score = 10
+
+[buoc]
+entity = "misc"
+score = 10
+
+[facd]
+entity = "misc"
+score = 10
+
+[fasg]
+entity = "misc"
+score = 10
+
+[axsl]
+entity = "misc"
+score = 10
+
+[agry]
+entity = "misc"
+score = 10
+
+[fabu]
+entity = "misc"
+score = 10
+
+[ajoj]
+entity = "misc"
+score = 10
+
+[agfx]
+entity = "misc"
+score = 10
+
+[bnzr]
+entity = "misc"
+score = 10
+
+[fcli]
+entity = "misc"
+score = 10
+
+[fafi]
+entity = "misc"
+score = 10
+
+[fcow]
+entity = "misc"
+score = 10
+
+[fapm]
+entity = "misc"
+score = 10
+
+[adoi]
+entity = "misc"
+score = 10
+
+[faar]
+entity = "misc"
+score = 10
+
+[faxs]
+entity = "misc"
+score = 10
+
+[agpa]
+entity = "misc"
+score = 10
+
+[faci]
+entity = "misc"
+score = 10
+
+[faxq]
+entity = "misc"
+score = 10
+
+[faqa]
+entity = "misc"
+score = 10
+
+[amqk]
+entity = "misc"
+score = 10
+
+[anoe]
+entity = "misc"
+score = 10
+
+[ajfl]
+entity = "misc"
+score = 10
+
+[aduw]
+entity = "misc"
+score = 10
+
+[anak]
+entity = "misc"
+score = 10
+
+[bbgq]
+entity = "misc"
+score = 10
+
+[faoy]
+entity = "misc"
+score = 10
+
+[fase]
+entity = "misc"
+score = 10
+
+[fagg]
+entity = "misc"
+score = 10
+
+[aubn]
+entity = "misc"
+score = 10
+
+[aukh]
+entity = "misc"
+score = 10
+
+[favw]
+entity = "misc"
+score = 10
+
+[fazy]
+entity = "misc"
+score = 10
+
+[farg]
+entity = "misc"
+score = 10
+
+[toma]
+entity = "misc"
+score = 10
+
+[badx]
+entity = "misc"
+score = 10
+
+[fedr]
+entity = "misc"
+score = 10
+
+[falj]
+entity = "misc"
+score = 10
+
+[faml]
+entity = "misc"
+score = 10
+
+[famh]
+entity = "misc"
+score = 10
+
+[amep]
+entity = "misc"
+score = 10
+
+[bbfi]
+entity = "misc"
+score = 10
+
+[bjkl]
+entity = "misc"
+score = 10
+
+[ruta]
+entity = "misc"
+score = 10
+
+[avyk]
+entity = "misc"
+score = 10
+
+[zaae]
+entity = "misc"
+score = 10
+
+[facj]
+entity = "misc"
+score = 10
+
+[fapi]
+entity = "misc"
+score = 10
+
+[fasb]
+entity = "misc"
+score = 10
+
+[fapw]
+entity = "misc"
+score = 10
+
+[fang]
+entity = "misc"
+score = 10
+
+[falp]
+entity = "misc"
+score = 10
+
+[aikb]
+entity = "misc"
+score = 10
+
+[amsu]
+entity = "misc"
+score = 10
+
+[cfpj]
+entity = "misc"
+score = 10
+
+[bada]
+entity = "misc"
+score = 10
+
+[upj]
+entity = "misc"
+score = 10
+
+[woo]
+entity = "misc"
+score = 10
+
+[adcz]
+entity = "misc"
+score = 10
+
+[faur]
+entity = "misc"
+score = 10
+
+[dafl]
+entity = "misc"
+score = 10
+
+[faen]
+entity = "misc"
+score = 10
+
+[bpio]
+entity = "misc"
+score = 10
+
+[falm]
+entity = "misc"
+score = 10
+
+[feah]
+entity = "misc"
+score = 10
+
+[aqiv]
+entity = "misc"
+score = 10
+
+[fath]
+entity = "misc"
+score = 10
+
+[fawg]
+entity = "misc"
+score = 10
+
+[frlo]
+entity = "misc"
+score = 10
+
+[faye]
+entity = "misc"
+score = 10
+
+[faum]
+entity = "misc"
+score = 10
+
+[ajcx]
+entity = "misc"
+score = 10
+
+[fame]
+entity = "misc"
+score = 10
+
+[optional]
+entity = "misc"
+score = 10
+
+[agiv]
+entity = "misc"
+score = 10
+
+[agpr]
+entity = "misc"
+score = 10
+
+[aubm]
+entity = "misc"
+score = 10
+
+[almv]
+entity = "misc"
+score = 10
+
+[akme]
+entity = "misc"
+score = 10
+
+[befm]
+entity = "misc"
+score = 10
+
+[enzyp]
+entity = "misc"
+score = 10
+
+[adhy]
+entity = "misc"
+score = 10
+
+[cosw]
+entity = "misc"
+score = 10
+
+[fael]
+entity = "misc"
+score = 10
+
+[dace]
+entity = "misc"
+score = 10
+
+[faph]
+entity = "misc"
+score = 10
+
+[baib]
+entity = "misc"
+score = 10
+
+[apfo]
+entity = "misc"
+score = 10
+
+[fasv]
+entity = "misc"
+score = 10
+
+[favs]
+entity = "misc"
+score = 10
+
+[fcil]
+entity = "misc"
+score = 10
+
+[kmzby]
+entity = "misc"
+score = 10
+
+[anct]
+entity = "misc"
+score = 10
+
+[fass]
+entity = "misc"
+score = 10
+
+[aoma]
+entity = "misc"
+score = 10
+
+[apdr]
+entity = "misc"
+score = 10
+
+[fahr]
+entity = "misc"
+score = 10
+
+[faod]
+entity = "misc"
+score = 10
+
+[bdax]
+entity = "misc"
+score = 10
+
+[ailu]
+entity = "misc"
+score = 10
+
+[anev]
+entity = "misc"
+score = 10
+
+[bnaj]
+entity = "misc"
+score = 10
+
+[flrh]
+entity = "misc"
+score = 10
+
+[falt]
+entity = "misc"
+score = 10
+
+[alkx]
+entity = "misc"
+score = 10
+
+[akss]
+entity = "misc"
+score = 10
+
+[farp]
+entity = "misc"
+score = 10
+
+[dikt]
+entity = "misc"
+score = 10
+
+[adjx]
+entity = "misc"
+score = 10
+
+[bakz]
+entity = "misc"
+score = 10
+
+[dacf]
+entity = "misc"
+score = 10
+
+[avsc]
+entity = "misc"
+score = 10
+
+[aphs]
+entity = "misc"
+score = 10
+
+[ajdd]
+entity = "misc"
+score = 10
+
+[abon]
+entity = "misc"
+score = 10
+
+[falb]
+entity = "misc"
+score = 10
+
+[faut]
+entity = "misc"
+score = 10
+
+[ahms]
+entity = "misc"
+score = 10
+
+[bsxi]
+entity = "misc"
+score = 10
+
+[fakh]
+entity = "misc"
+score = 10
+
+[aciy]
+entity = "misc"
+score = 10
+
+[anff]
+entity = "misc"
+score = 10
+
+[falr]
+entity = "misc"
+score = 10
+
+[faxx]
+entity = "misc"
+score = 10
+
+[avaq]
+entity = "misc"
+score = 10
+
+[faxv]
+entity = "misc"
+score = 10
+
+[aesu]
+entity = "misc"
+score = 10
+
+[ayrn]
+entity = "misc"
+score = 10
+
+[why]
+entity = "misc"
+score = 10
+
+[faif]
+entity = "misc"
+score = 10
+
+[agmz]
+entity = "misc"
+score = 10
+
+[czmk]
+entity = "misc"
+score = 10
+
+[eacc]
+entity = "misc"
+score = 10
+
+[sfyd]
+entity = "misc"
+score = 10
+
+[adto]
+entity = "misc"
+score = 10
+
+[favx]
+entity = "misc"
+score = 10
+
+[cpnn]
+entity = "misc"
+score = 10
+
+[cafc]
+entity = "misc"
+score = 10
+
+[plugin]
+entity = "misc"
+score = 10
+
+[falo]
+entity = "misc"
+score = 10
+
+[fcsp]
+entity = "misc"
+score = 10
+
+[jytd]
+entity = "misc"
+score = 10
+
+[anal]
+entity = "misc"
+score = 10
+
+[bnph]
+entity = "misc"
+score = 10
+
+[heurengine]
+entity = "misc"
+score = 10
+
+[famk]
+entity = "misc"
+score = 10
+
+[mwpm]
+entity = "misc"
+score = 10
+
+[blao]
+entity = "misc"
+score = 10
+
+[asws]
+entity = "misc"
+score = 10
+
+[possibly]
+entity = "misc"
+score = 10
+
+[anaf]
+entity = "misc"
+score = 10
+
+[famj]
+entity = "misc"
+score = 10
+
+[baxq]
+entity = "misc"
+score = 10
+
+[aoer]
+entity = "misc"
+score = 10
+
+[packa]
+entity = "misc"
+score = 10
+
+[agtb]
+entity = "misc"
+score = 10
+
+[asaf]
+entity = "misc"
+score = 10
+
+[genpack]
+entity = "misc"
+score = 10
+
+[bewy]
+entity = "misc"
+score = 10
+
+[bukd]
+entity = "misc"
+score = 10
+
+[favb]
+entity = "misc"
+score = 10
+
+[aujj]
+entity = "misc"
+score = 10
+
+[wdcr]
+entity = "misc"
+score = 10
+
+[avlu]
+entity = "misc"
+score = 10
+
+[bugt]
+entity = "misc"
+score = 10
+
+[veryhighconfidence]
+entity = "misc"
+score = 10
+
+[aucc]
+entity = "misc"
+score = 10
+
+[asmm]
+entity = "misc"
+score = 10
+
+[acki]
+entity = "misc"
+score = 10
+
+[auxx]
+entity = "misc"
+score = 10
+
+[bmnt]
+entity = "misc"
+score = 10
+
+[fajn]
+entity = "misc"
+score = 10
+
+[zaah]
+entity = "misc"
+score = 10
+
+[aung]
+entity = "misc"
+score = 10
+
+[apyx]
+entity = "misc"
+score = 10
+
+[herramienta]
+entity = "misc"
+score = 10
+
+[riesgosa]
+entity = "misc"
+score = 10
+
+[maligna]
+entity = "misc"
+score = 10
+
+[ina]
+entity = "misc"
+score = 10
+
+[arnc]
+entity = "misc"
+score = 10
+
+[alec]
+entity = "misc"
+score = 10
+
+[gusano]
+entity = "misc"
+score = 10
+
+[reporte]
+entity = "misc"
+score = 10
+
+[segurmatica]
+entity = "misc"
+score = 10
+
+[famd]
+entity = "misc"
+score = 10
+
+[bifi]
+entity = "misc"
+score = 10
+
+[bbnu]
+entity = "misc"
+score = 10
+
+[bqmo]
+entity = "misc"
+score = 10
+
+[aysa]
+entity = "misc"
+score = 10
+
+[agfh]
+entity = "misc"
+score = 10
+
+[famg]
+entity = "misc"
+score = 10
+
+[azcs]
+entity = "misc"
+score = 10
+
+[aotv]
+entity = "misc"
+score = 10
+
+[faio]
+entity = "misc"
+score = 10
+
+[aovd]
+entity = "misc"
+score = 10
+
+[fefx]
+entity = "misc"
+score = 10
+
+[xto]
+entity = "misc"
+score = 10
+
+[cdlu]
+entity = "misc"
+score = 10
+
+[apvs]
+entity = "misc"
+score = 10
+
+[avat]
+entity = "misc"
+score = 10
+
+[abua]
+entity = "misc"
+score = 10
+
+[aqzm]
+entity = "misc"
+score = 10
+
+[cbca]
+entity = "misc"
+score = 10
+
+[fafs]
+entity = "misc"
+score = 10
+
+[autb]
+entity = "misc"
+score = 10
+
+[sape]
+entity = "misc"
+score = 10
+
+[time]
+entity = "misc"
+score = 10
+
+[bhxt]
+entity = "misc"
+score = 10
+
+[fapr]
+entity = "misc"
+score = 10
+
+[bxrc]
+entity = "misc"
+score = 10
+
+[adjs]
+entity = "misc"
+score = 10
+
+[famb]
+entity = "misc"
+score = 10
+
+[aded]
+entity = "misc"
+score = 10
+
+[paked]
+entity = "misc"
+score = 10
+
+[ajod]
+entity = "misc"
+score = 10
+
+[amrj]
+entity = "misc"
+score = 10
+
+[dmsc]
+entity = "misc"
+score = 10
+
+[akld]
+entity = "misc"
+score = 10
+
+[frof]
+entity = "misc"
+score = 10
+
+[working]
+entity = "misc"
+score = 10
+
+[bxxq]
+entity = "misc"
+score = 10
+
+[anru]
+entity = "misc"
+score = 10
+
+[arzn]
+entity = "misc"
+score = 10
+
+[alko]
+entity = "misc"
+score = 10
+
+[fagi]
+entity = "misc"
+score = 10
+
+[faty]
+entity = "misc"
+score = 10
+
+[agim]
+entity = "misc"
+score = 10
+
+[aupr]
+entity = "misc"
+score = 10
+
+[fagf]
+entity = "misc"
+score = 10
+
+[atwf]
+entity = "misc"
+score = 10
+
+[fmuv]
+entity = "misc"
+score = 10
+
+[employed]
+entity = "misc"
+score = 10
+
+[disinfected]
+entity = "misc"
+score = 10
+
+[copyright]
+entity = "misc"
+score = 10
+
+[fmms]
+entity = "misc"
+score = 10
+
+[fayc]
+entity = "misc"
+score = 10
+
+[cicc]
+entity = "misc"
+score = 10
+
+[fakg]
+entity = "misc"
+score = 10
+
+[fmrv]
+entity = "misc"
+score = 10
+
+[fsnx]
+entity = "misc"
+score = 10
+
+[fafr]
+entity = "misc"
+score = 10
+
+[auvg]
+entity = "misc"
+score = 10
+
+[facu]
+entity = "misc"
+score = 10
+
+[fmnu]
+entity = "misc"
+score = 10
+
+[sfydg]
+entity = "misc"
+score = 10
+
+[exfil]
+entity = "misc"
+score = 10
+
+[fsta]
+entity = "misc"
+score = 10
+
+[febi]
+entity = "misc"
+score = 10
+
+[frny]
+entity = "misc"
+score = 10
+
+[ftgz]
+entity = "misc"
+score = 10
+
+[kbxs]
+entity = "misc"
+score = 10
+
+[bweo]
+entity = "misc"
+score = 10
+
+[biht]
+entity = "misc"
+score = 10
+
+[impact]
+entity = "misc"
+score = 10
+
+[setup]
+entity = "misc"
+score = 10
+
+[akhv]
+entity = "misc"
+score = 10
+
+[vbcr]
+entity = "misc"
+score = 10
+
+[dnbx]
+entity = "misc"
+score = 10
+
+[bxaa]
+entity = "misc"
+score = 10
+
+[bmqa]
+entity = "misc"
+score = 10
+
+[bijm]
+entity = "misc"
+score = 10
+
+[defc]
+entity = "misc"
+score = 10
+
+[limited]
+entity = "misc"
+score = 10
+
+[dece]
+entity = "misc"
+score = 10
+
+[optimal]
+entity = "misc"
+score = 10
+
+[speed]
+entity = "misc"
+score = 10
+
+[bndo]
+entity = "misc"
+score = 10
+
+[anbh]
+entity = "misc"
+score = 10
+
+[dggq]
+entity = "misc"
+score = 10
+
+[json]
+entity = "misc"
+score = 10
+
+[coic]
+entity = "misc"
+score = 10
+
+[beet]
+entity = "misc"
+score = 10
+
+[apyn]
+entity = "misc"
+score = 10
+
+[iatae]
+entity = "misc"
+score = 10
+
+[cybk]
+entity = "misc"
+score = 10
+
+[aonc]
+entity = "misc"
+score = 10
+
+[espg]
+entity = "misc"
+score = 10
+
+[gbwe]
+entity = "misc"
+score = 10
+
+[bcin]
+entity = "misc"
+score = 10
+
+[debc]
+entity = "misc"
+score = 10
+
+[biad]
+entity = "misc"
+score = 10
+
+[deff]
+entity = "misc"
+score = 10
+
+[trust]
+entity = "misc"
+score = 10
+
+[xave]
+entity = "misc"
+score = 10
+
+[pull]
+entity = "misc"
+score = 10
+
+[ljio]
+entity = "misc"
+score = 10
+
+[mesm]
+entity = "misc"
+score = 10
+
+[bizu]
+entity = "misc"
+score = 10
+
+[leoxi]
+entity = "misc"
+score = 10
+
+[bbra]
+entity = "misc"
+score = 10
+
+[bais]
+entity = "misc"
+score = 10
+
+[dnme]
+entity = "misc"
+score = 10
+
+[bams]
+entity = "misc"
+score = 10
+
+[etch]
+entity = "misc"
+score = 10
+
+[dspd]
+entity = "misc"
+score = 10
+
+[cmfw]
+entity = "misc"
+score = 10
+
+[jaw]
+entity = "misc"
+score = 10
+
+[fur]
+entity = "misc"
+score = 10
+
+[bxpc]
+entity = "misc"
+score = 10
+
+[bzua]
+entity = "misc"
+score = 10
+
+[denpe]
+entity = "misc"
+score = 10
+
+[const]
+entity = "misc"
+score = 10
+
+[frcp]
+entity = "misc"
+score = 10
+
+[frwg]
+entity = "misc"
+score = 10
+
+[bmhg]
+entity = "misc"
+score = 10
+
+[bupu]
+entity = "misc"
+score = 10
+
+[dssh]
+entity = "misc"
+score = 10
+
+[cvft]
+entity = "misc"
+score = 10
+
+[cqsz]
+entity = "misc"
+score = 10
+
+[appmonetizer]
+entity = "misc"
+score = 10
+
+[kdrj]
+entity = "misc"
+score = 10
+
+[blnx]
+entity = "misc"
+score = 10
+
+[dedb]
+entity = "misc"
+score = 10
+
+[bipt]
+entity = "misc"
+score = 10
+
+[czzq]
+entity = "misc"
+score = 10
+
+[bqub]
+entity = "misc"
+score = 10
+
+[adxy]
+entity = "misc"
+score = 10
+
+[brfc]
+entity = "misc"
+score = 10
+
+[bzsh]
+entity = "misc"
+score = 10
+
+[cmjp]
+entity = "misc"
+score = 10
+
+[faha]
+entity = "misc"
+score = 10
+
+[dqpl]
+entity = "misc"
+score = 10
+
+[boia]
+entity = "misc"
+score = 10
+
+[bulb]
+entity = "misc"
+score = 10
+
+[rawsn]
+entity = "misc"
+score = 10
+
+[dlit]
+entity = "misc"
+score = 10
+
+[dryl]
+entity = "misc"
+score = 10
+
+[dnxm]
+entity = "misc"
+score = 10
+
+[aoxy]
+entity = "misc"
+score = 10
+
+[clha]
+entity = "misc"
+score = 10
+
+[legend]
+entity = "misc"
+score = 10
+
+[dlpe]
+entity = "misc"
+score = 10
+
+[dqdl]
+entity = "misc"
+score = 10
+
+[baif]
+entity = "misc"
+score = 10
+
+[bgie]
+entity = "misc"
+score = 10
+
+[blkk]
+entity = "misc"
+score = 10
+
+[davcp]
+entity = "misc"
+score = 10
+
+[bbqu]
+entity = "misc"
+score = 10
+
+[dpac]
+entity = "misc"
+score = 10
+
+[qfokr]
+entity = "misc"
+score = 10
+
+[dnpr]
+entity = "misc"
+score = 10
+
+[btyn]
+entity = "misc"
+score = 10
+
+[doec]
+entity = "misc"
+score = 10
+
+[bibg]
+entity = "misc"
+score = 10
+
+[blzg]
+entity = "misc"
+score = 10
+
+[dffx]
+entity = "misc"
+score = 10
+
+[bmkj]
+entity = "misc"
+score = 10
+
+[bwgj]
+entity = "misc"
+score = 10
+
+[bfsm]
+entity = "misc"
+score = 10
+
+[djri]
+entity = "misc"
+score = 10
+
+[ausx]
+entity = "misc"
+score = 10
+
+[drwb]
+entity = "misc"
+score = 10
+
+[brbr]
+entity = "misc"
+score = 10
+
+[cowd]
+entity = "misc"
+score = 10
+
+[cdde]
+entity = "misc"
+score = 10
+
+[bwdx]
+entity = "misc"
+score = 10
+
+[dkts]
+entity = "misc"
+score = 10
+
+[bayy]
+entity = "misc"
+score = 10
+
+[clhi]
+entity = "misc"
+score = 10
+
+[bimd]
+entity = "misc"
+score = 10
+
+[hhkl]
+entity = "misc"
+score = 10
+
+[faqm]
+entity = "misc"
+score = 10
+
+[avpsec]
+entity = "misc"
+score = 10
+
+[alum]
+entity = "misc"
+score = 10
+
+[fadv]
+entity = "misc"
+score = 10
+
+[cade]
+entity = "misc"
+score = 10
+
+[bfux]
+entity = "misc"
+score = 10
+
+[drfa]
+entity = "misc"
+score = 10
+
+[wfli]
+entity = "misc"
+score = 10
+
+[bnxp]
+entity = "misc"
+score = 10
+
+[cagx]
+entity = "misc"
+score = 10
+
+[demk]
+entity = "misc"
+score = 10
+
+[docume]
+entity = "misc"
+score = 10
+
+[locals]
+entity = "misc"
+score = 10
+
+[caho]
+entity = "misc"
+score = 10
+
+[telnet]
+entity = "misc"
+score = 10
+
+[server]
+entity = "misc"
+score = 10
+
+[caia]
+entity = "misc"
+score = 10
+
+[nyavj]
+entity = "misc"
+score = 10
+
+[mapi]
+entity = "misc"
+score = 10
+
+[fasr]
+entity = "misc"
+score = 10
+
+[dftk]
+entity = "misc"
+score = 10
+
+[xaob]
+entity = "misc"
+score = 10
+
+[bjra]
+entity = "misc"
+score = 10
+
+[dard]
+entity = "misc"
+score = 10
+
+[boii]
+entity = "misc"
+score = 10
+
+[ctnn]
+entity = "misc"
+score = 10
+
+[crackingapps]
+entity = "misc"
+score = 10
+
+[bnnu]
+entity = "misc"
+score = 10
+
+[fakd]
+entity = "misc"
+score = 10
+
+[adwb]
+entity = "misc"
+score = 10
+
+[bruy]
+entity = "misc"
+score = 10
+
+[dnuy]
+entity = "misc"
+score = 10
+
+[daim]
+entity = "misc"
+score = 10
+
+[btmp]
+entity = "misc"
+score = 10
+
+[brtq]
+entity = "misc"
+score = 10
+
+[betb]
+entity = "misc"
+score = 10
+
+[dkop]
+entity = "misc"
+score = 10
+
+[disk]
+entity = "misc"
+score = 10
+
+[biysb]
+entity = "misc"
+score = 10
+
+[dqih]
+entity = "misc"
+score = 10
+
+[xacle]
+entity = "misc"
+score = 10
+
+[sarli]
+entity = "misc"
+score = 10
+
+[teroo]
+entity = "misc"
+score = 10
+
+[clrw]
+entity = "misc"
+score = 10
+
+[batc]
+entity = "misc"
+score = 10
+
+[imrkn]
+entity = "misc"
+score = 10
+
+[digw]
+entity = "misc"
+score = 10
+
+[wnskrst]
+entity = "misc"
+score = 10
+
+[dyvj]
+entity = "misc"
+score = 10
+
+[kuqro]
+entity = "misc"
+score = 10
+
+[bpuj]
+entity = "misc"
+score = 10
+
+[bsuz]
+entity = "misc"
+score = 10
+
+[multikey]
+entity = "misc"
+score = 10
+
+[bacr]
+entity = "misc"
+score = 10
+
+[service]
+entity = "misc"
+score = 10
+
+[nylnh]
+entity = "misc"
+score = 10
+
+[usimn]
+entity = "misc"
+score = 10
+
+[cnnic]
+entity = "misc"
+score = 10
+
+[nutat]
+entity = "misc"
+score = 10
+
+[bian]
+entity = "misc"
+score = 10
+
+[czaq]
+entity = "misc"
+score = 10
+
+[junk]
+entity = "misc"
+score = 10
+
+[filebroken]
+entity = "misc"
+score = 10
+
+[rfwad]
+entity = "misc"
+score = 10
+
+[errc]
+entity = "misc"
+score = 10
+
+[baow]
+entity = "misc"
+score = 10
+
+[bhmi]
+entity = "misc"
+score = 10
+
+[bcxd]
+entity = "misc"
+score = 10
+
+[ciky]
+entity = "misc"
+score = 10
+
+[dikp]
+entity = "misc"
+score = 10
+
+[vocu]
+entity = "misc"
+score = 10
+
+[beus]
+entity = "misc"
+score = 10
+
+[asdd]
+entity = "misc"
+score = 10
+
+[dwlf]
+entity = "misc"
+score = 10
+
+[arha]
+entity = "misc"
+score = 10
+
+[bbws]
+entity = "misc"
+score = 10
+
+[baua]
+entity = "misc"
+score = 10
+
+[glwl]
+entity = "misc"
+score = 10
+
+[abae]
+entity = "misc"
+score = 10
+
+[ddmj]
+entity = "misc"
+score = 10
+
+[fedp]
+entity = "misc"
+score = 10
+
+[drvx]
+entity = "misc"
+score = 10
+
+[dyno]
+entity = "misc"
+score = 10
+
+[bage]
+entity = "misc"
+score = 10
+
+[ysgps]
+entity = "misc"
+score = 10
+
+[bonx]
+entity = "misc"
+score = 10
+
+[users]
+entity = "misc"
+score = 10
+
+[irpir]
+entity = "misc"
+score = 10
+
+[bkps]
+entity = "misc"
+score = 10
+
+[btla]
+entity = "misc"
+score = 10
+
+[rte]
+entity = "misc"
+score = 10
+
+[deef]
+entity = "misc"
+score = 10
+
+[fbir]
+entity = "misc"
+score = 10
+
+[bwib]
+entity = "misc"
+score = 10
+
+[drek]
+entity = "misc"
+score = 10
+
+[bazv]
+entity = "misc"
+score = 10
+
+[ffla]
+entity = "misc"
+score = 10
+
+[drxq]
+entity = "misc"
+score = 10
+
+[bwej]
+entity = "misc"
+score = 10
+
+[wrdas]
+entity = "misc"
+score = 10
+
+[uodcf]
+entity = "misc"
+score = 10
+
+[cmmt]
+entity = "misc"
+score = 10
+
+[anky]
+entity = "misc"
+score = 10
+
+[srnty]
+entity = "misc"
+score = 10
+
+[btrc]
+entity = "misc"
+score = 10
+
+[caee]
+entity = "misc"
+score = 10
+
+[uirrr]
+entity = "misc"
+score = 10
+
+[cbwa]
+entity = "misc"
+score = 10
+
+[cpal]
+entity = "misc"
+score = 10
+
+[bifn]
+entity = "misc"
+score = 10
+
+[comp]
+entity = "misc"
+score = 10
+
+[xaqu]
+entity = "misc"
+score = 10
+
+[cesk]
+entity = "misc"
+score = 10
+
+[bbmc]
+entity = "misc"
+score = 10
+
+[bata]
+entity = "misc"
+score = 10
+
+[cove]
+entity = "misc"
+score = 10
+
+[cosj]
+entity = "misc"
+score = 10
+
+[bpzu]
+entity = "misc"
+score = 10
+
+[defd]
+entity = "misc"
+score = 10
+
+[bhyk]
+entity = "misc"
+score = 10
+
+[bvzr]
+entity = "misc"
+score = 10
+
+[bgpz]
+entity = "misc"
+score = 10
+
+[bizx]
+entity = "misc"
+score = 10
+
+[brgb]
+entity = "misc"
+score = 10
+
+[bepr]
+entity = "misc"
+score = 10
+
+[goht]
+entity = "misc"
+score = 10
+
+[utc]
+entity = "misc"
+score = 10
+
+[xwg]
+entity = "misc"
+score = 10
+
+[lun]
+entity = "misc"
+score = 10
+
+[kis]
+entity = "misc"
+score = 10
+
+[wqs]
+entity = "misc"
+score = 10
+
+[swb]
+entity = "misc"
+score = 10
+
+[ycv]
+entity = "misc"
+score = 10
+
+[uiv]
+entity = "misc"
+score = 10
+
+[kts]
+entity = "misc"
+score = 10
+
+[rka]
+entity = "misc"
+score = 10
+
+[yov]
+entity = "misc"
+score = 10
+
+[xsb]
+entity = "misc"
+score = 10
+
+[xkf]
+entity = "misc"
+score = 10
+
+[xeo]
+entity = "misc"
+score = 10
+
+[mfi]
+entity = "misc"
+score = 10
+
+[jix]
+entity = "misc"
+score = 10
+
+[wte]
+entity = "misc"
+score = 10
+
+[lid]
+entity = "misc"
+score = 10
+
+[tem]
+entity = "misc"
+score = 10
+
+[ylj]
+entity = "misc"
+score = 10
+
+[mei]
+entity = "misc"
+score = 10
+
+[gik]
+entity = "misc"
+score = 10
+
+[xis]
+entity = "misc"
+score = 10
+
+[krp]
+entity = "misc"
+score = 10
+
+[xmd]
+entity = "misc"
+score = 10
+
+[wcw]
+entity = "misc"
+score = 10
+
+[zrv]
+entity = "misc"
+score = 10
+
+[wqb]
+entity = "misc"
+score = 10
+
+[yoy]
+entity = "misc"
+score = 10
+
+[yci]
+entity = "misc"
+score = 10
+
+[ybo]
+entity = "misc"
+score = 10
+
+[zyu]
+entity = "misc"
+score = 10
+
+[vws]
+entity = "misc"
+score = 10
+
+[ghm]
+entity = "misc"
+score = 10
+
+[vlz]
+entity = "misc"
+score = 10
+
+[xew]
+entity = "misc"
+score = 10
+
+[zwm]
+entity = "misc"
+score = 10
+
+[wws]
+entity = "misc"
+score = 10
+
+[mox]
+entity = "misc"
+score = 10
+
+[juf]
+entity = "misc"
+score = 10
+
+[hux]
+entity = "misc"
+score = 10
+
+[kju]
+entity = "misc"
+score = 10
+
+[lmt]
+entity = "misc"
+score = 10
+
+[loj]
+entity = "misc"
+score = 10
+
+[lds]
+entity = "misc"
+score = 10
+
+[rtr]
+entity = "misc"
+score = 10
+
+[jly]
+entity = "misc"
+score = 10
+
+[qen]
+entity = "misc"
+score = 10
+
+[uph]
+entity = "misc"
+score = 10
+
+[vik]
+entity = "misc"
+score = 10
+
+[sts]
+entity = "misc"
+score = 10
+
+[xff]
+entity = "misc"
+score = 10
+
+[mpg]
+entity = "misc"
+score = 10
+
+[vyr]
+entity = "misc"
+score = 10
+
+[lod]
+entity = "misc"
+score = 10
+
+[tdx]
+entity = "misc"
+score = 10
+
+[zsp]
+entity = "misc"
+score = 10
+
+[orl]
+entity = "misc"
+score = 10
+
+[rda]
+entity = "misc"
+score = 10
+
+[xgh]
+entity = "misc"
+score = 10
+
+[web]
+entity = "misc"
+score = 10
+
+[iuv]
+entity = "misc"
+score = 10
+
+[wtt]
+entity = "misc"
+score = 10
+
+[xsu]
+entity = "misc"
+score = 10
+
+[xpa]
+entity = "misc"
+score = 10
+
+[bdus]
+entity = "misc"
+score = 10
+
+[biwo]
+entity = "misc"
+score = 10
+
+[bmgg]
+entity = "misc"
+score = 10
+
+[antl]
+entity = "misc"
+score = 10
+
+[drfp]
+entity = "misc"
+score = 10
+
+[kedo]
+entity = "misc"
+score = 10
+
+[daif]
+entity = "misc"
+score = 10
+
+[apov]
+entity = "misc"
+score = 10
+
+[duko]
+entity = "misc"
+score = 10
+
+[eese]
+entity = "misc"
+score = 10
+
+[enoq]
+entity = "misc"
+score = 10
+
+[aryz]
+entity = "misc"
+score = 10
+
+[eywt]
+entity = "misc"
+score = 10
+
+[bmrp]
+entity = "misc"
+score = 10
+
+[bspy]
+entity = "misc"
+score = 10
+
+[bcoi]
+entity = "misc"
+score = 10
+
+[daoc]
+entity = "misc"
+score = 10
+
+[eklp]
+entity = "misc"
+score = 10
+
+[cfnj]
+entity = "misc"
+score = 10
+
+[amwy]
+entity = "misc"
+score = 10
+
+[dgho]
+entity = "misc"
+score = 10
+
+[dasu]
+entity = "misc"
+score = 10
+
+[biia]
+entity = "misc"
+score = 10
+
+[fann]
+entity = "misc"
+score = 10
+
+[blvp]
+entity = "misc"
+score = 10
+
+[euxi]
+entity = "misc"
+score = 10
+
+[bovr]
+entity = "misc"
+score = 10
+
+[dsfd]
+entity = "misc"
+score = 10
+
+[darz]
+entity = "misc"
+score = 10
+
+[ciid]
+entity = "misc"
+score = 10
+
+[bnzz]
+entity = "misc"
+score = 10
+
+[eeca]
+entity = "misc"
+score = 10
+
+[bbih]
+entity = "misc"
+score = 10
+
+[aybg]
+entity = "misc"
+score = 10
+
+[cvyj]
+entity = "misc"
+score = 10
+
+[bdrk]
+entity = "misc"
+score = 10
+
+[djfi]
+entity = "misc"
+score = 10
+
+[ddax]
+entity = "misc"
+score = 10
+
+[clpt]
+entity = "misc"
+score = 10
+
+[danf]
+entity = "misc"
+score = 10
+
+[ayef]
+entity = "misc"
+score = 10
+
+[bcrh]
+entity = "misc"
+score = 10
+
+[azeh]
+entity = "misc"
+score = 10
+
+[daan]
+entity = "misc"
+score = 10
+
+[beer]
+entity = "misc"
+score = 10
+
+[dppa]
+entity = "misc"
+score = 10
+
+[dfic]
+entity = "misc"
+score = 10
+
+[crhn]
+entity = "misc"
+score = 10
+
+[adcr]
+entity = "misc"
+score = 10
+
+[famc]
+entity = "misc"
+score = 10
+
+[bewl]
+entity = "misc"
+score = 10
+
+[dnvy]
+entity = "misc"
+score = 10
+
+[dsww]
+entity = "misc"
+score = 10
+
+[bain]
+entity = "misc"
+score = 10
+
+[dafx]
+entity = "misc"
+score = 10
+
+[atkq]
+entity = "misc"
+score = 10
+
+[ezlj]
+entity = "misc"
+score = 10
+
+[laho]
+entity = "misc"
+score = 10
+
+[dvnk]
+entity = "misc"
+score = 10
+
+[xhp]
+entity = "misc"
+score = 10
+
+[anag]
+entity = "misc"
+score = 10
+
+[balh]
+entity = "misc"
+score = 10
+
+[dlle]
+entity = "misc"
+score = 10
+
+[wum]
+entity = "misc"
+score = 10
+
+[brfu]
+entity = "misc"
+score = 10
+
+[dscq]
+entity = "misc"
+score = 10
+
+[bnwx]
+entity = "misc"
+score = 10
+
+[cwpt]
+entity = "misc"
+score = 10
+
+[bohm]
+entity = "misc"
+score = 10
+
+[favj]
+entity = "misc"
+score = 10
+
+[batl]
+entity = "misc"
+score = 10
+
+[bviy]
+entity = "misc"
+score = 10
+
+[fbkr]
+entity = "misc"
+score = 10
+
+[ammz]
+entity = "misc"
+score = 10
+
+[dbrv]
+entity = "misc"
+score = 10
+
+[bema]
+entity = "misc"
+score = 10
+
+[bihv]
+entity = "misc"
+score = 10
+
+[cors]
+entity = "misc"
+score = 10
+
+[apta]
+entity = "misc"
+score = 10
+
+[bdmk]
+entity = "misc"
+score = 10
+
+[bnls]
+entity = "misc"
+score = 10
+
+[dapz]
+entity = "misc"
+score = 10
+
+[beay]
+entity = "misc"
+score = 10
+
+[bjyl]
+entity = "misc"
+score = 10
+
+[fahe]
+entity = "misc"
+score = 10
+
+[dxto]
+entity = "misc"
+score = 10
+
+[cowa]
+entity = "misc"
+score = 10
+
+[bdrz]
+entity = "misc"
+score = 10
+
+[bvyn]
+entity = "misc"
+score = 10
+
+[auzl]
+entity = "misc"
+score = 10
+
+[beau]
+entity = "misc"
+score = 10
+
+[bapx]
+entity = "misc"
+score = 10
+
+[evmp]
+entity = "misc"
+score = 10
+
+[bdqn]
+entity = "misc"
+score = 10
+
+[xdl]
+entity = "misc"
+score = 10
+
+[caxz]
+entity = "misc"
+score = 10
+
+[cqap]
+entity = "misc"
+score = 10
+
+[btpj]
+entity = "misc"
+score = 10
+
+[amjg]
+entity = "misc"
+score = 10
+
+[rand]
+entity = "misc"
+score = 10
+
+[bizq]
+entity = "misc"
+score = 10
+
+[rock]
+entity = "misc"
+score = 10
+
+[bgwv]
+entity = "misc"
+score = 10
+
+[arvi]
+entity = "misc"
+score = 10
+
+[zakcs]
+entity = "misc"
+score = 10
+
+[bijf]
+entity = "misc"
+score = 10
+
+[bofg]
+entity = "misc"
+score = 10
+
+[axnw]
+entity = "misc"
+score = 10
+
+[diiy]
+entity = "misc"
+score = 10
+
+[cjqa]
+entity = "misc"
+score = 10
+
+[brbx]
+entity = "misc"
+score = 10
+
+[yngie]
+entity = "misc"
+score = 10
+
+[zrtia]
+entity = "misc"
+score = 10
+
+[bpid]
+entity = "misc"
+score = 10
+
+[blny]
+entity = "misc"
+score = 10
+
+[bedg]
+entity = "misc"
+score = 10
+
+[ebba]
+entity = "misc"
+score = 10
+
+[agby]
+entity = "misc"
+score = 10
+
+[clrg]
+entity = "misc"
+score = 10
+
+[fayn]
+entity = "misc"
+score = 10
+
+[ampk]
+entity = "misc"
+score = 10
+
+[dsws]
+entity = "misc"
+score = 10
+
+[dids]
+entity = "misc"
+score = 10
+
+[btra]
+entity = "misc"
+score = 10
+
+[dvsp]
+entity = "misc"
+score = 10
+
+[dooe]
+entity = "misc"
+score = 10
+
+[baig]
+entity = "misc"
+score = 10
+
+[brzo]
+entity = "misc"
+score = 10
+
+[cmxm]
+entity = "misc"
+score = 10
+
+[bgcb]
+entity = "misc"
+score = 10
+
+[aeov]
+entity = "misc"
+score = 10
+
+[booo]
+entity = "misc"
+score = 10
+
+[elty]
+entity = "misc"
+score = 10
+
+[nzzo]
+entity = "misc"
+score = 10
+
+[bkyq]
+entity = "misc"
+score = 10
+
+[burx]
+entity = "misc"
+score = 10
+
+[dedu]
+entity = "misc"
+score = 10
+
+[csrq]
+entity = "misc"
+score = 10
+
+[bdia]
+entity = "misc"
+score = 10
+
+[anrn]
+entity = "misc"
+score = 10
+
+[fustx]
+entity = "misc"
+score = 10
+
+[cogs]
+entity = "misc"
+score = 10
+
+[bfez]
+entity = "misc"
+score = 10
+
+[debe]
+entity = "misc"
+score = 10
+
+[mim]
+entity = "misc"
+score = 10
+
+[evci]
+entity = "misc"
+score = 10
+
+[bkpt]
+entity = "misc"
+score = 10
+
+[bmyk]
+entity = "misc"
+score = 10
+
+[avin]
+entity = "misc"
+score = 10
+
+[echy]
+entity = "misc"
+score = 10
+
+[bgoo]
+entity = "misc"
+score = 10
+
+[lmta]
+entity = "misc"
+score = 10
+
+[dstn]
+entity = "misc"
+score = 10
+
+[zaak]
+entity = "misc"
+score = 10
+
+[arow]
+entity = "misc"
+score = 10
+
+[bbnm]
+entity = "misc"
+score = 10
+
+[biqx]
+entity = "misc"
+score = 10
+
+[anin]
+entity = "misc"
+score = 10
+
+[blpf]
+entity = "misc"
+score = 10
+
+[bvvq]
+entity = "misc"
+score = 10
+
+[bevj]
+entity = "misc"
+score = 10
+
+[buum]
+entity = "misc"
+score = 10
+
+[btqt]
+entity = "misc"
+score = 10
+
+[diyx]
+entity = "misc"
+score = 10
+
+[boyq]
+entity = "misc"
+score = 10
+
+[fanw]
+entity = "misc"
+score = 10
+
+[drbc]
+entity = "misc"
+score = 10
+
+[dsdn]
+entity = "misc"
+score = 10
+
+[bjin]
+entity = "misc"
+score = 10
+
+[keirb]
+entity = "misc"
+score = 10
+
+[bglk]
+entity = "misc"
+score = 10
+
+[wcoir]
+entity = "misc"
+score = 10
+
+[mum]
+entity = "misc"
+score = 10
+
+[czui]
+entity = "misc"
+score = 10
+
+[apbo]
+entity = "misc"
+score = 10
+
+[biss]
+entity = "misc"
+score = 10
+
+[baha]
+entity = "misc"
+score = 10
+
+[agey]
+entity = "misc"
+score = 10
+
+[cmms]
+entity = "misc"
+score = 10
+
+[xavl]
+entity = "misc"
+score = 10
+
+[bnbi]
+entity = "misc"
+score = 10
+
+[bemr]
+entity = "misc"
+score = 10
+
+[bghc]
+entity = "misc"
+score = 10
+
+[bcwt]
+entity = "misc"
+score = 10
+
+[bxrd]
+entity = "misc"
+score = 10
+
+[dacn]
+entity = "misc"
+score = 10
+
+[cavw]
+entity = "misc"
+score = 10
+
+[crer]
+entity = "misc"
+score = 10
+
+[bmif]
+entity = "misc"
+score = 10
+
+[dfia]
+entity = "misc"
+score = 10
+
+[cack]
+entity = "misc"
+score = 10
+
+[btnp]
+entity = "misc"
+score = 10
+
+[cnhv]
+entity = "misc"
+score = 10
+
+[bahk]
+entity = "misc"
+score = 10
+
+[bnnp]
+entity = "misc"
+score = 10
+
+[bjqn]
+entity = "misc"
+score = 10
+
+[besx]
+entity = "misc"
+score = 10
+
+[dfur]
+entity = "misc"
+score = 10
+
+[anyt]
+entity = "misc"
+score = 10
+
+[mavu]
+entity = "misc"
+score = 10
+
+[daok]
+entity = "misc"
+score = 10
+
+[blpq]
+entity = "misc"
+score = 10
+
+[alef]
+entity = "misc"
+score = 10
+
+[bbas]
+entity = "misc"
+score = 10
+
+[bswe]
+entity = "misc"
+score = 10
+
+[kbxw]
+entity = "misc"
+score = 10
+
+[bsza]
+entity = "misc"
+score = 10
+
+[amzx]
+entity = "misc"
+score = 10
+
+[zck]
+entity = "misc"
+score = 10
+
+[krb]
+entity = "misc"
+score = 10
+
+[ddld]
+entity = "misc"
+score = 10
+
+[brpl]
+entity = "misc"
+score = 10
+
+[dgsc]
+entity = "misc"
+score = 10
+
+[dedp]
+entity = "misc"
+score = 10
+
+[gpwi]
+entity = "misc"
+score = 10
+
+[dezo]
+entity = "misc"
+score = 10
+
+[cahr]
+entity = "misc"
+score = 10
+
+[biev]
+entity = "misc"
+score = 10
+
+[dplb]
+entity = "misc"
+score = 10
+
+[brwi]
+entity = "misc"
+score = 10
+
+[bgyu]
+entity = "misc"
+score = 10
+
+[dyef]
+entity = "misc"
+score = 10
+
+[hltv]
+entity = "misc"
+score = 10
+
+[bepl]
+entity = "misc"
+score = 10
+
+[dere]
+entity = "misc"
+score = 10
+
+[bcod]
+entity = "misc"
+score = 10
+
+[fcos]
+entity = "misc"
+score = 10
+
+[bneh]
+entity = "misc"
+score = 10
+
+[clpr]
+entity = "misc"
+score = 10
+
+[dwdv]
+entity = "misc"
+score = 10
+
+[cabo]
+entity = "misc"
+score = 10
+
+[bnep]
+entity = "misc"
+score = 10
+
+[bbpk]
+entity = "misc"
+score = 10
+
+[xma]
+entity = "misc"
+score = 10
+
+[caum]
+entity = "misc"
+score = 10
+
+[ascx]
+entity = "misc"
+score = 10
+
+[bqpl]
+entity = "misc"
+score = 10
+
+[feay]
+entity = "misc"
+score = 10
+
+[baul]
+entity = "misc"
+score = 10
+
+[ctza]
+entity = "misc"
+score = 10
+
+[bxqq]
+entity = "misc"
+score = 10
+
+[cvxa]
+entity = "misc"
+score = 10
+
+[ghnz]
+entity = "misc"
+score = 10
+
+[eafp]
+entity = "misc"
+score = 10
+
+[egjo]
+entity = "misc"
+score = 10
+
+[btmz]
+entity = "misc"
+score = 10
+
+[boas]
+entity = "misc"
+score = 10
+
+[cjac]
+entity = "misc"
+score = 10
+
+[buff]
+entity = "misc"
+score = 10
+
+[ajav]
+entity = "misc"
+score = 10
+
+[uninstaller]
+entity = "misc"
+score = 10
+
+[bixo]
+entity = "misc"
+score = 10
+
+[axax]
+entity = "misc"
+score = 10
+
+[bhkm]
+entity = "misc"
+score = 10
+
+[fbgu]
+entity = "misc"
+score = 10
+
+[arvz]
+entity = "misc"
+score = 10
+
+[axak]
+entity = "misc"
+score = 10
+
+[cdof]
+entity = "misc"
+score = 10
+
+[dman]
+entity = "misc"
+score = 10
+
+[bnye]
+entity = "misc"
+score = 10
+
+[faiz]
+entity = "misc"
+score = 10
+
+[brqw]
+entity = "misc"
+score = 10
+
+[bevx]
+entity = "misc"
+score = 10
+
+[dagx]
+entity = "misc"
+score = 10
+
+[dnzp]
+entity = "misc"
+score = 10
+
+[banq]
+entity = "misc"
+score = 10
+
+[bflp]
+entity = "misc"
+score = 10
+
+[eojf]
+entity = "misc"
+score = 10
+
+[ches]
+entity = "misc"
+score = 10
+
+[aiov]
+entity = "misc"
+score = 10
+
+[badb]
+entity = "misc"
+score = 10
+
+[fafm]
+entity = "misc"
+score = 10
+
+[asho]
+entity = "misc"
+score = 10
+
+[cpsc]
+entity = "misc"
+score = 10
+
+[alon]
+entity = "misc"
+score = 10
+
+[yno]
+entity = "misc"
+score = 10
+
+[bptv]
+entity = "misc"
+score = 10
+
+[dqdr]
+entity = "misc"
+score = 10
+
+[amzq]
+entity = "misc"
+score = 10
+
+[bfla]
+entity = "misc"
+score = 10
+
+[clef]
+entity = "misc"
+score = 10
+
+[bnuh]
+entity = "misc"
+score = 10
+
+[upq]
+entity = "misc"
+score = 10
+
+[bmyi]
+entity = "misc"
+score = 10
+
+[bbem]
+entity = "misc"
+score = 10
+
+[enfm]
+entity = "misc"
+score = 10
+
+[cmar]
+entity = "misc"
+score = 10
+
+[bdtb]
+entity = "misc"
+score = 10
+
+[zaaj]
+entity = "misc"
+score = 10
+
+[bgle]
+entity = "misc"
+score = 10
+
+[deqp]
+entity = "misc"
+score = 10
+
+[azgg]
+entity = "misc"
+score = 10
+
+[bvyp]
+entity = "misc"
+score = 10
+
+[dmol]
+entity = "misc"
+score = 10
+
+[bdim]
+entity = "misc"
+score = 10
+
+[besp]
+entity = "misc"
+score = 10
+
+[aiogud]
+entity = "misc"
+score = 10
+
+[bmyn]
+entity = "misc"
+score = 10
+
+[asej]
+entity = "misc"
+score = 10
+
+[ftde]
+entity = "misc"
+score = 10
+
+[award]
+entity = "misc"
+score = 10
+
+[wzyy]
+entity = "misc"
+score = 10
+
+[bbyb]
+entity = "misc"
+score = 10
+
+[arre]
+entity = "misc"
+score = 10
+
+[bnri]
+entity = "misc"
+score = 10
+
+[bioz]
+entity = "misc"
+score = 10
+
+[bxzy]
+entity = "misc"
+score = 10
+
+[bazy]
+entity = "misc"
+score = 10
+
+[dmov]
+entity = "misc"
+score = 10
+
+[djln]
+entity = "misc"
+score = 10
+
+[biwb]
+entity = "misc"
+score = 10
+
+[arsg]
+entity = "misc"
+score = 10
+
+[calc]
+entity = "misc"
+score = 10
+
+[bjlg]
+entity = "misc"
+score = 10
+
+[booe]
+entity = "misc"
+score = 10
+
+[boro]
+entity = "misc"
+score = 10
+
+[acrg]
+entity = "misc"
+score = 10
+
+[bmbc]
+entity = "misc"
+score = 10
+
+[bnrr]
+entity = "misc"
+score = 10
+
+[cahk]
+entity = "misc"
+score = 10
+
+[boel]
+entity = "misc"
+score = 10
+
+[cgag]
+entity = "misc"
+score = 10
+
+[cikc]
+entity = "misc"
+score = 10
+
+[cuss]
+entity = "misc"
+score = 10
+
+[xcm]
+entity = "misc"
+score = 10
+
+[bjwz]
+entity = "misc"
+score = 10
+
+[ddpu]
+entity = "misc"
+score = 10
+
+[bjhm]
+entity = "misc"
+score = 10
+
+[bizc]
+entity = "misc"
+score = 10
+
+[zcu]
+entity = "misc"
+score = 10
+
+[djos]
+entity = "misc"
+score = 10
+
+[bvku]
+entity = "misc"
+score = 10
+
+[variants]
+entity = "misc"
+score = 10
+
+[bmaj]
+entity = "misc"
+score = 10
+
+[caqu]
+entity = "misc"
+score = 10
+
+[blxv]
+entity = "misc"
+score = 10
+
+[aswj]
+entity = "misc"
+score = 10
+
+[dsgi]
+entity = "misc"
+score = 10
+
+[broe]
+entity = "misc"
+score = 10
+
+[dbyr]
+entity = "misc"
+score = 10
+
+[dmus]
+entity = "misc"
+score = 10
+
+[boad]
+entity = "misc"
+score = 10
+
+[bipi]
+entity = "misc"
+score = 10
+
+[bocj]
+entity = "misc"
+score = 10
+
+[aups]
+entity = "misc"
+score = 10
+
+[auaq]
+entity = "misc"
+score = 10
+
+[bhex]
+entity = "misc"
+score = 10
+
+[clya]
+entity = "misc"
+score = 10
+
+[bcrw]
+entity = "misc"
+score = 10
+
+[drfy]
+entity = "misc"
+score = 10
+
+[bgzv]
+entity = "misc"
+score = 10
+
+[arfy]
+entity = "misc"
+score = 10
+
+[cuhh]
+entity = "misc"
+score = 10
+
+[bnxu]
+entity = "misc"
+score = 10
+
+[durb]
+entity = "misc"
+score = 10
+
+[avkl]
+entity = "misc"
+score = 10
+
+[aims]
+entity = "misc"
+score = 10
+
+[ambo]
+entity = "misc"
+score = 10
+
+[baid]
+entity = "misc"
+score = 10
+
+[dmoc]
+entity = "misc"
+score = 10
+
+[bcey]
+entity = "misc"
+score = 10
+
+[bjqv]
+entity = "misc"
+score = 10
+
+[doak]
+entity = "misc"
+score = 10
+
+[dply]
+entity = "misc"
+score = 10
+
+[bntm]
+entity = "misc"
+score = 10
+
+[czaz]
+entity = "misc"
+score = 10
+
+[bgzl]
+entity = "misc"
+score = 10
+
+[atdo]
+entity = "misc"
+score = 10
+
+[drhd]
+entity = "misc"
+score = 10
+
+[cakq]
+entity = "misc"
+score = 10
+
+[anut]
+entity = "misc"
+score = 10
+
+[bdnw]
+entity = "misc"
+score = 10
+
+[bkgc]
+entity = "misc"
+score = 10
+
+[cbkx]
+entity = "misc"
+score = 10
+
+[erxa]
+entity = "misc"
+score = 10
+
+[aoyo]
+entity = "misc"
+score = 10
+
+[doqz]
+entity = "misc"
+score = 10
+
+[dawk]
+entity = "misc"
+score = 10
+
+[dgaz]
+entity = "misc"
+score = 10
+
+[clyb]
+entity = "misc"
+score = 10
+
+[fapf]
+entity = "misc"
+score = 10
+
+[bheu]
+entity = "misc"
+score = 10
+
+[assj]
+entity = "misc"
+score = 10
+
+[agtn]
+entity = "misc"
+score = 10
+
+[badd]
+entity = "misc"
+score = 10
+
+[ankx]
+entity = "misc"
+score = 10
+
+[bipw]
+entity = "misc"
+score = 10
+
+[dizf]
+entity = "misc"
+score = 10
+
+[famx]
+entity = "misc"
+score = 10
+
+[named]
+entity = "misc"
+score = 10
+
+[destructive]
+entity = "misc"
+score = 10
+
+[avdr]
+entity = "misc"
+score = 10
+
+[crgh]
+entity = "misc"
+score = 10
+
+[bjek]
+entity = "misc"
+score = 10
+
+[atjm]
+entity = "misc"
+score = 10
+
+[atzv]
+entity = "misc"
+score = 10
+
+[ajmt]
+entity = "misc"
+score = 10
+
+[byfr]
+entity = "misc"
+score = 10
+
+[bedo]
+entity = "misc"
+score = 10
+
+[berc]
+entity = "misc"
+score = 10
+
+[agbu]
+entity = "misc"
+score = 10
+
+[afuf]
+entity = "misc"
+score = 10
+
+[cane]
+entity = "misc"
+score = 10
+
+[boso]
+entity = "misc"
+score = 10
+
+[zms]
+entity = "misc"
+score = 10
+
+[awto]
+entity = "misc"
+score = 10
+
+[cmkm]
+entity = "misc"
+score = 10
+
+[bpif]
+entity = "misc"
+score = 10
+
+[dprl]
+entity = "misc"
+score = 10
+
+[ctlj]
+entity = "misc"
+score = 10
+
+[bllt]
+entity = "misc"
+score = 10
+
+[ajul]
+entity = "misc"
+score = 10
+
+[anmt]
+entity = "misc"
+score = 10
+
+[ervx]
+entity = "misc"
+score = 10
+
+[ciyw]
+entity = "misc"
+score = 10
+
+[avlr]
+entity = "misc"
+score = 10
+
+[cihs]
+entity = "misc"
+score = 10
+
+[bovi]
+entity = "misc"
+score = 10
+
+[bono]
+entity = "misc"
+score = 10
+
+[anza]
+entity = "misc"
+score = 10
+
+[crem]
+entity = "misc"
+score = 10
+
+[ezig]
+entity = "misc"
+score = 10
+
+[azkj]
+entity = "misc"
+score = 10
+
+[adiq]
+entity = "misc"
+score = 10
+
+[aotx]
+entity = "misc"
+score = 10
+
+[ehcd]
+entity = "misc"
+score = 10
+
+[aobd]
+entity = "misc"
+score = 10
+
+[aitd]
+entity = "misc"
+score = 10
+
+[aqxs]
+entity = "misc"
+score = 10
+
+[agmi]
+entity = "misc"
+score = 10
+
+[blvo]
+entity = "misc"
+score = 10
+
+[aisy]
+entity = "misc"
+score = 10
+
+[bzhx]
+entity = "misc"
+score = 10
+
+[bgnv]
+entity = "misc"
+score = 10
+
+[fanp]
+entity = "misc"
+score = 10
+
+[aiys]
+entity = "misc"
+score = 10
+
+[croo]
+entity = "misc"
+score = 10
+
+[alvd]
+entity = "misc"
+score = 10
+
+[aroh]
+entity = "misc"
+score = 10
+
+[bket]
+entity = "misc"
+score = 10
+
+[bldy]
+entity = "misc"
+score = 10
+
+[dabo]
+entity = "misc"
+score = 10
+
+[bjlo]
+entity = "misc"
+score = 10
+
+[bcml]
+entity = "misc"
+score = 10
+
+[diue]
+entity = "misc"
+score = 10
+
+[bjmz]
+entity = "misc"
+score = 10
+
+[cpsy]
+entity = "misc"
+score = 10
+
+[aweg]
+entity = "misc"
+score = 10
+
+[bhmx]
+entity = "misc"
+score = 10
+
+[dqgv]
+entity = "misc"
+score = 10
+
+[bvdr]
+entity = "misc"
+score = 10
+
+[bjqp]
+entity = "misc"
+score = 10
+
+[bcyk]
+entity = "misc"
+score = 10
+
+[bipu]
+entity = "misc"
+score = 10
+
+[city]
+entity = "misc"
+score = 10
+
+[dlcc]
+entity = "misc"
+score = 10
+
+[cncp]
+entity = "misc"
+score = 10
+
+[doot]
+entity = "misc"
+score = 10
+
+[btor]
+entity = "misc"
+score = 10
+
+[cmeo]
+entity = "misc"
+score = 10
+
+[dpok]
+entity = "misc"
+score = 10
+
+[bfcr]
+entity = "misc"
+score = 10
+
+[bdml]
+entity = "misc"
+score = 10
+
+[blyu]
+entity = "misc"
+score = 10
+
+[dqep]
+entity = "misc"
+score = 10
+
+[diar]
+entity = "misc"
+score = 10
+
+[dgac]
+entity = "misc"
+score = 10
+
+[cpkw]
+entity = "misc"
+score = 10
+
+[bsom]
+entity = "misc"
+score = 10
+
+[bdmi]
+entity = "misc"
+score = 10
+
+[ctxg]
+entity = "misc"
+score = 10
+
+[dqmj]
+entity = "misc"
+score = 10
+
+[axsy]
+entity = "misc"
+score = 10
+
+[biej]
+entity = "misc"
+score = 10
+
+[coot]
+entity = "misc"
+score = 10
+
+[daaf]
+entity = "misc"
+score = 10
+
+[bnbo]
+entity = "misc"
+score = 10
+
+[etsn]
+entity = "misc"
+score = 10
+
+[drbo]
+entity = "misc"
+score = 10
+
+[drbr]
+entity = "misc"
+score = 10
+
+[bohz]
+entity = "misc"
+score = 10
+
+[bbeh]
+entity = "misc"
+score = 10
+
+[dncc]
+entity = "misc"
+score = 10
+
+[cbpa]
+entity = "misc"
+score = 10
+
+[baju]
+entity = "misc"
+score = 10
+
+[boqm]
+entity = "misc"
+score = 10
+
+[coqs]
+entity = "misc"
+score = 10
+
+[afvn]
+entity = "misc"
+score = 10
+
+[faiw]
+entity = "misc"
+score = 10
+
+[btci]
+entity = "misc"
+score = 10
+
+[ergz]
+entity = "misc"
+score = 10
+
+[ciaa]
+entity = "misc"
+score = 10
+
+[cyit]
+entity = "misc"
+score = 10
+
+[entw]
+entity = "misc"
+score = 10
+
+[fama]
+entity = "misc"
+score = 10
+
+[bzue]
+entity = "misc"
+score = 10
+
+[brdc]
+entity = "misc"
+score = 10
+
+[djkk]
+entity = "misc"
+score = 10
+
+[bihh]
+entity = "misc"
+score = 10
+
+[intended]
+entity = "misc"
+score = 10
+
+[brtr]
+entity = "misc"
+score = 10
+
+[aobj]
+entity = "misc"
+score = 10
+
+[besf]
+entity = "misc"
+score = 10
+
+[dqjl]
+entity = "misc"
+score = 10
+
+[buok]
+entity = "misc"
+score = 10
+
+[dfka]
+entity = "misc"
+score = 10
+
+[cory]
+entity = "misc"
+score = 10
+
+[bisf]
+entity = "misc"
+score = 10
+
+[akgb]
+entity = "misc"
+score = 10
+
+[ansm]
+entity = "misc"
+score = 10
+
+[dbqz]
+entity = "misc"
+score = 10
+
+[dbxv]
+entity = "misc"
+score = 10
+
+[vmalum]
+entity = "misc"
+score = 10
+
+[atlu]
+entity = "misc"
+score = 10
+
+[amux]
+entity = "misc"
+score = 10
+
+[bhjp]
+entity = "misc"
+score = 10
+
+[dgxu]
+entity = "misc"
+score = 10
+
+[bkpv]
+entity = "misc"
+score = 10
+
+[enuc]
+entity = "misc"
+score = 10
+
+[kdrc]
+entity = "misc"
+score = 10
+
+[xhi]
+entity = "misc"
+score = 10
+
+[farr]
+entity = "misc"
+score = 10
+
+[bpha]
+entity = "misc"
+score = 10
+
+[bpzy]
+entity = "misc"
+score = 10
+
+[btnv]
+entity = "misc"
+score = 10
+
+[ddud]
+entity = "misc"
+score = 10
+
+[azge]
+entity = "misc"
+score = 10
+
+[bgov]
+entity = "misc"
+score = 10
+
+[byoe]
+entity = "misc"
+score = 10
+
+[blce]
+entity = "misc"
+score = 10
+
+[bhps]
+entity = "misc"
+score = 10
+
+[cgra]
+entity = "misc"
+score = 10
+
+[clsr]
+entity = "misc"
+score = 10
+
+[aknz]
+entity = "misc"
+score = 10
+
+[biml]
+entity = "misc"
+score = 10
+
+[cixs]
+entity = "misc"
+score = 10
+
+[bamo]
+entity = "misc"
+score = 10
+
+[gpoo]
+entity = "misc"
+score = 10
+
+[dqka]
+entity = "misc"
+score = 10
+
+[cyuq]
+entity = "misc"
+score = 10
+
+[bnys]
+entity = "misc"
+score = 10
+
+[bbae]
+entity = "misc"
+score = 10
+
+[bwzs]
+entity = "misc"
+score = 10
+
+[ajtv]
+entity = "misc"
+score = 10
+
+[azoz]
+entity = "misc"
+score = 10
+
+[bzib]
+entity = "misc"
+score = 10
+
+[aupy]
+entity = "misc"
+score = 10
+
+[bqps]
+entity = "misc"
+score = 10
+
+[bjyt]
+entity = "misc"
+score = 10
+
+[ashy]
+entity = "misc"
+score = 10
+
+[bjvj]
+entity = "misc"
+score = 10
+
+[bgzk]
+entity = "misc"
+score = 10
+
+[bsoh]
+entity = "misc"
+score = 10
+
+[cycr]
+entity = "misc"
+score = 10
+
+[bguj]
+entity = "misc"
+score = 10
+
+[ceee]
+entity = "misc"
+score = 10
+
+[scanning]
+entity = "misc"
+score = 10
+
+[ckfz]
+entity = "misc"
+score = 10
+
+[auaz]
+entity = "misc"
+score = 10
+
+[funk]
+entity = "misc"
+score = 10
+
+[bisb]
+entity = "misc"
+score = 10
+
+[burk]
+entity = "misc"
+score = 10
+
+[amea]
+entity = "misc"
+score = 10
+
+[bjao]
+entity = "misc"
+score = 10
+
+[devf]
+entity = "misc"
+score = 10
+
+[cnae]
+entity = "misc"
+score = 10
+
+[baqi]
+entity = "misc"
+score = 10
+
+[arya]
+entity = "misc"
+score = 10
+
+[aroe]
+entity = "misc"
+score = 10
+
+[cxni]
+entity = "misc"
+score = 10
+
+[gofp]
+entity = "misc"
+score = 10
+
+[avpr]
+entity = "misc"
+score = 10
+
+[bdss]
+entity = "misc"
+score = 10
+
+[coql]
+entity = "misc"
+score = 10
+
+[wqmf]
+entity = "misc"
+score = 10
+
+[atiu]
+entity = "misc"
+score = 10
+
+[diap]
+entity = "misc"
+score = 10
+
+[afsj]
+entity = "misc"
+score = 10
+
+[feof]
+entity = "misc"
+score = 10
+
+[bdnp]
+entity = "misc"
+score = 10
+
+[biis]
+entity = "misc"
+score = 10
+
+[cvmw]
+entity = "misc"
+score = 10
+
+[cozi]
+entity = "misc"
+score = 10
+
+[cpuf]
+entity = "misc"
+score = 10
+
+[hgug]
+entity = "misc"
+score = 10
+
+[cudr]
+entity = "misc"
+score = 10
+
+[byni]
+entity = "misc"
+score = 10
+
+[ycgu]
+entity = "misc"
+score = 10
+
+[cvir]
+entity = "misc"
+score = 10
+
+[bsmp]
+entity = "misc"
+score = 10
+
+[amlo]
+entity = "misc"
+score = 10
+
+[azes]
+entity = "misc"
+score = 10
+
+[anyp]
+entity = "misc"
+score = 10
+
+[dlgf]
+entity = "misc"
+score = 10
+
+[avoz]
+entity = "misc"
+score = 10
+
+[bege]
+entity = "misc"
+score = 10
+
+[bkup]
+entity = "misc"
+score = 10
+
+[coak]
+entity = "misc"
+score = 10
+
+[cdda]
+entity = "misc"
+score = 10
+
+[beca]
+entity = "misc"
+score = 10
+
+[coqd]
+entity = "misc"
+score = 10
+
+[bfjb]
+entity = "misc"
+score = 10
+
+[bhzr]
+entity = "misc"
+score = 10
+
+[dgcp]
+entity = "misc"
+score = 10
+
+[fadu]
+entity = "misc"
+score = 10
+
+[bers]
+entity = "misc"
+score = 10
+
+[atzl]
+entity = "misc"
+score = 10
+
+[diet]
+entity = "misc"
+score = 10
+
+[aneg]
+entity = "misc"
+score = 10
+
+[deep]
+entity = "misc"
+score = 10
+
+[bgcy]
+entity = "misc"
+score = 10
+
+[amak]
+entity = "misc"
+score = 10
+
+[csjr]
+entity = "misc"
+score = 10
+
+[aupf]
+entity = "misc"
+score = 10
+
+[asnj]
+entity = "misc"
+score = 10
+
+[blak]
+entity = "misc"
+score = 10
+
+[amti]
+entity = "misc"
+score = 10
+
+[aulq]
+entity = "misc"
+score = 10
+
+[apaj]
+entity = "misc"
+score = 10
+
+[amoh]
+entity = "misc"
+score = 10
+
+[thread]
+entity = "misc"
+score = 10
+
+[patch]
+entity = "misc"
+score = 10
+
+[bwyx]
+entity = "misc"
+score = 10
+
+[bznt]
+entity = "misc"
+score = 10
+
+[medre]
+entity = "misc"
+score = 10
+
+[boundary]
+entity = "misc"
+score = 10
+
+[avof]
+entity = "misc"
+score = 10
+
+[cert]
+entity = "misc"
+score = 10
+
+[bhfz]
+entity = "misc"
+score = 10
+
+[bksd]
+entity = "misc"
+score = 10
+
+[auoi]
+entity = "misc"
+score = 10
+
+[hjry]
+entity = "misc"
+score = 10
+
+[bnen]
+entity = "misc"
+score = 10
+
+[auhf]
+entity = "misc"
+score = 10
+
+[aukl]
+entity = "misc"
+score = 10
+
+[cfyr]
+entity = "misc"
+score = 10
+
+[difu]
+entity = "misc"
+score = 10
+
+[boax]
+entity = "misc"
+score = 10
+
+[bkbz]
+entity = "misc"
+score = 10
+
+[btkq]
+entity = "misc"
+score = 10
+
+[blrc]
+entity = "misc"
+score = 10
+
+[ajot]
+entity = "misc"
+score = 10
+
+[biub]
+entity = "misc"
+score = 10
+
+[vdos]
+entity = "misc"
+score = 10
+
+[hrhy]
+entity = "misc"
+score = 10
+
+[fagh]
+entity = "misc"
+score = 10
+
+[faxl]
+entity = "misc"
+score = 10
+
+[favf]
+entity = "misc"
+score = 10
+
+[autodetect]
+entity = "misc"
+score = 10
+
+[mogo]
+entity = "misc"
+score = 10
+
+[bpim]
+entity = "misc"
+score = 10
+
+[xatk]
+entity = "misc"
+score = 10
+
+[zaxam]
+entity = "misc"
+score = 10
+
+[ddmy]
+entity = "misc"
+score = 10
+
+[bock]
+entity = "misc"
+score = 10
+
+[blpg]
+entity = "misc"
+score = 10
+
+[commonelements]
+entity = "misc"
+score = 10
+
+[deul]
+entity = "misc"
+score = 10
+
+[private]
+entity = "misc"
+score = 10
+
+[gmha]
+entity = "misc"
+score = 10
+
+[toit]
+entity = "misc"
+score = 10
+
+[cynv]
+entity = "misc"
+score = 10
+
+[hfot]
+entity = "misc"
+score = 10
+
+[gwes]
+entity = "misc"
+score = 10
+
+[lmpy]
+entity = "misc"
+score = 10
+
+[kegb]
+entity = "misc"
+score = 10
+
+[bwsk]
+entity = "misc"
+score = 10
+
+[bibz]
+entity = "misc"
+score = 10
+
+[biiv]
+entity = "misc"
+score = 10
+
+[dyoefp]
+entity = "misc"
+score = 10
+
+[kbza]
+entity = "misc"
+score = 10
+
+[opera]
+entity = "misc"
+score = 10
+
+[deiz]
+entity = "misc"
+score = 10
+
+[dbfj]
+entity = "misc"
+score = 10
+
+[loxl]
+entity = "misc"
+score = 10
+
+[remnrs]
+entity = "misc"
+score = 10
+
+[duix]
+entity = "misc"
+score = 10
+
+[dubx]
+entity = "misc"
+score = 10
+
+[hzis]
+entity = "misc"
+score = 10
+
+[errorfixkit]
+entity = "misc"
+score = 10
+
+[behav]
+entity = "misc"
+score = 10
+
+[corruptfile]
+entity = "misc"
+score = 10
+
+[patching]
+entity = "misc"
+score = 10
+
+[porn]
+entity = "misc"
+score = 10
+
+[vnyw]
+entity = "misc"
+score = 10
+
+[suspect]
+entity = "misc"
+score = 10
+
+[enrx]
+entity = "misc"
+score = 10
+
+[section]
+entity = "misc"
+score = 10
+
+[dton]
+entity = "misc"
+score = 10
+
+[duib]
+entity = "misc"
+score = 10
+
+[kyks]
+entity = "misc"
+score = 10
+
+[tppi]
+entity = "misc"
+score = 10
+
+[base]
+entity = "misc"
+score = 10
+
+[gbcb]
+entity = "misc"
+score = 10
+
+[debugger]
+entity = "misc"
+score = 10
+
+[http]
+entity = "misc"
+score = 10
+
+[oang]
+entity = "misc"
+score = 10
+
+[smib]
+entity = "misc"
+score = 10
+
+[xmrmine]
+entity = "misc"
+score = 10
+
+[tqbp]
+entity = "misc"
+score = 10
+
+[cqpu]
+entity = "misc"
+score = 10
+
+[bmts]
+entity = "misc"
+score = 10
+
+[vnye]
+entity = "misc"
+score = 10
+
+[celesty]
+entity = "misc"
+score = 10
+
+[okan]
+entity = "misc"
+score = 10
+
+[ozqa]
+entity = "misc"
+score = 10
+
+[rgpe]
+entity = "misc"
+score = 10
+
+[action]
+entity = "misc"
+score = 10
+
+[lupq]
+entity = "misc"
+score = 10
+
+[bixa]
+entity = "misc"
+score = 10
+
+[grcp]
+entity = "misc"
+score = 10
+
+[dimq]
+entity = "misc"
+score = 10
+
+[dtot]
+entity = "misc"
+score = 10
+
+[ultimate]
+entity = "misc"
+score = 10
+
+[smsn]
+entity = "misc"
+score = 10
+
+[coze]
+entity = "misc"
+score = 10
+
+[cdyr]
+entity = "misc"
+score = 10
+
+[lebo]
+entity = "misc"
+score = 10
+
+[scbo]
+entity = "misc"
+score = 10
+
+[offs]
+entity = "misc"
+score = 10
+
+[lzmz]
+entity = "misc"
+score = 10
+
+[lgjx]
+entity = "misc"
+score = 10
+
+[tocq]
+entity = "misc"
+score = 10
+
+[bbus]
+entity = "misc"
+score = 10
+
+[cmpz]
+entity = "misc"
+score = 10
+
+[fuhz]
+entity = "misc"
+score = 10
+
+[rich]
+entity = "misc"
+score = 10
+
+[corrupted]
+entity = "misc"
+score = 10
+
+[bhwu]
+entity = "misc"
+score = 10
+
+[boyu]
+entity = "misc"
+score = 10
+
+[kdmz]
+entity = "misc"
+score = 10
+
+[fidg]
+entity = "misc"
+score = 10
+
+[drom]
+entity = "misc"
+score = 10
+
+[cfru]
+entity = "misc"
+score = 10
+
+[fidr]
+entity = "misc"
+score = 10
+
+[tmksoft]
+entity = "misc"
+score = 10
+
+[perfect]
+entity = "misc"
+score = 10
+
+[cszy]
+entity = "misc"
+score = 10
+
+[kzly]
+entity = "misc"
+score = 10
+
+[muer]
+entity = "misc"
+score = 10
+
+[utility]
+entity = "misc"
+score = 10
+
+[oaxq]
+entity = "misc"
+score = 10
+
+[gcaq]
+entity = "misc"
+score = 10
+
+[mnvv]
+entity = "misc"
+score = 10
+
+[fibt]
+entity = "misc"
+score = 10
+
+[ceaz]
+entity = "misc"
+score = 10
+
+[angry]
+entity = "misc"
+score = 10
+
+[zline]
+entity = "misc"
+score = 10
+
+[ngnsss]
+entity = "misc"
+score = 10
+
+[lcgm]
+entity = "misc"
+score = 10
+
+[qdik]
+entity = "misc"
+score = 10
+
+[lrku]
+entity = "misc"
+score = 10
+
+[liko]
+entity = "misc"
+score = 10
+
+[mjam]
+entity = "misc"
+score = 10
+
+[godo]
+entity = "misc"
+score = 10
+
+[ggxh]
+entity = "misc"
+score = 10
+
+[gynz]
+entity = "misc"
+score = 10
+
+[kdxb]
+entity = "misc"
+score = 10
+
+[dilf]
+entity = "misc"
+score = 10
+
+[tvjf]
+entity = "misc"
+score = 10
+
+[bhun]
+entity = "misc"
+score = 10
+
+[cdnx]
+entity = "misc"
+score = 10
+
+[dixl]
+entity = "misc"
+score = 10
+
+[ghkx]
+entity = "misc"
+score = 10
+
+[onemb]
+entity = "misc"
+score = 10
+
+[drma]
+entity = "misc"
+score = 10
+
+[bapu]
+entity = "misc"
+score = 10
+
+[cbnp]
+entity = "misc"
+score = 10
+
+[lmwe]
+entity = "misc"
+score = 10
+
+[ggod]
+entity = "misc"
+score = 10
+
+[brru]
+entity = "misc"
+score = 10
+
+[gpvw]
+entity = "misc"
+score = 10
+
+[enlv]
+entity = "misc"
+score = 10
+
+[deuv]
+entity = "misc"
+score = 10
+
+[puba]
+entity = "misc"
+score = 10
+
+[gcpx]
+entity = "misc"
+score = 10
+
+[tnet]
+entity = "misc"
+score = 10
+
+[gbnn]
+entity = "misc"
+score = 10
+
+[dnye]
+entity = "misc"
+score = 10
+
+[gajp]
+entity = "misc"
+score = 10
+
+[cidj]
+entity = "misc"
+score = 10
+
+[lmoo]
+entity = "misc"
+score = 10
+
+[rknc]
+entity = "misc"
+score = 10
+
+[ddyi]
+entity = "misc"
+score = 10
+
+[rfuj]
+entity = "misc"
+score = 10
+
+[ceeh]
+entity = "misc"
+score = 10
+
+[brfk]
+entity = "misc"
+score = 10
+
+[fzpt]
+entity = "misc"
+score = 10
+
+[dizu]
+entity = "misc"
+score = 10
+
+[gons]
+entity = "misc"
+score = 10
+
+[enqx]
+entity = "misc"
+score = 10
+
+[fhwu]
+entity = "misc"
+score = 10
+
+[tphy]
+entity = "misc"
+score = 10
+
+[cuhe]
+entity = "misc"
+score = 10
+
+[dkol]
+entity = "misc"
+score = 10
+
+[nutax]
+entity = "misc"
+score = 10
+
+[deir]
+entity = "misc"
+score = 10
+
+[ndkv]
+entity = "misc"
+score = 10
+
+[gbne]
+entity = "misc"
+score = 10
+
+[bimp]
+entity = "misc"
+score = 10
+
+[etan]
+entity = "misc"
+score = 10
+
+[gcbx]
+entity = "misc"
+score = 10
+
+[fkst]
+entity = "misc"
+score = 10
+
+[wlau]
+entity = "misc"
+score = 10
+
+[dnxy]
+entity = "misc"
+score = 10
+
+[gcwb]
+entity = "misc"
+score = 10
+
+[ginq]
+entity = "misc"
+score = 10
+
+[buhv]
+entity = "misc"
+score = 10
+
+[nlcx]
+entity = "misc"
+score = 10
+
+[mupu]
+entity = "misc"
+score = 10
+
+[brwz]
+entity = "misc"
+score = 10
+
+[ewiy]
+entity = "misc"
+score = 10
+
+[jucx]
+entity = "misc"
+score = 10
+
+[ghsu]
+entity = "misc"
+score = 10
+
+[gpov]
+entity = "misc"
+score = 10
+
+[dmma]
+entity = "misc"
+score = 10
+
+[bazx]
+entity = "misc"
+score = 10
+
+[besn]
+entity = "misc"
+score = 10
+
+[kypm]
+entity = "misc"
+score = 10
+
+[deoi]
+entity = "misc"
+score = 10
+
+[slyn]
+entity = "misc"
+score = 10
+
+[kdxa]
+entity = "misc"
+score = 10
+
+[eaix]
+entity = "misc"
+score = 10
+
+[vnvt]
+entity = "misc"
+score = 10
+
+[lkit]
+entity = "misc"
+score = 10
+
+[dofr]
+entity = "misc"
+score = 10
+
+[buuo]
+entity = "misc"
+score = 10
+
+[bauc]
+entity = "misc"
+score = 10
+
+[detb]
+entity = "misc"
+score = 10
+
+[ftez]
+entity = "misc"
+score = 10
+
+[buax]
+entity = "misc"
+score = 10
+
+[kehe]
+entity = "misc"
+score = 10
+
+[dehx]
+entity = "misc"
+score = 10
+
+[voch]
+entity = "misc"
+score = 10
+
+[dktl]
+entity = "misc"
+score = 10
+
+[jyif]
+entity = "misc"
+score = 10
+
+[caun]
+entity = "misc"
+score = 10
+
+[hhss]
+entity = "misc"
+score = 10
+
+[lwzy]
+entity = "misc"
+score = 10
+
+[wjpt]
+entity = "misc"
+score = 10
+
+[babe]
+entity = "misc"
+score = 10
+
+[biit]
+entity = "misc"
+score = 10
+
+[noly]
+entity = "misc"
+score = 10
+
+[bxor]
+entity = "misc"
+score = 10
+
+[djat]
+entity = "misc"
+score = 10
+
+[network]
+entity = "misc"
+score = 10
+
+[kdxc]
+entity = "misc"
+score = 10
+
+[eeyd]
+entity = "misc"
+score = 10
+
+[dopy]
+entity = "misc"
+score = 10
+
+[fzuj]
+entity = "misc"
+score = 10
+
+[vmpr]
+entity = "misc"
+score = 10
+
+[towj]
+entity = "misc"
+score = 10
+
+[gaps]
+entity = "misc"
+score = 10
+
+[upddb]
+entity = "misc"
+score = 10
+
+[gaee]
+entity = "misc"
+score = 10
+
+[fxge]
+entity = "misc"
+score = 10
+
+[tugma]
+entity = "misc"
+score = 10
+
+[ljnl]
+entity = "misc"
+score = 10
+
+[djps]
+entity = "misc"
+score = 10
+
+[ddav]
+entity = "misc"
+score = 10
+
+[cwjy]
+entity = "misc"
+score = 10
+
+[bvck]
+entity = "misc"
+score = 10
+
+[fmqu]
+entity = "misc"
+score = 10
+
+[ghou]
+entity = "misc"
+score = 10
+
+[gbhq]
+entity = "misc"
+score = 10
+
+[lyef]
+entity = "misc"
+score = 10
+
+[gbld]
+entity = "misc"
+score = 10
+
+[kzzt]
+entity = "misc"
+score = 10
+
+[bibw]
+entity = "misc"
+score = 10
+
+[ltpx]
+entity = "misc"
+score = 10
+
+[gabo]
+entity = "misc"
+score = 10
+
+[deix]
+entity = "misc"
+score = 10
+
+[fzwu]
+entity = "misc"
+score = 10
+
+[dhci]
+entity = "misc"
+score = 10
+
+[dngg]
+entity = "misc"
+score = 10
+
+[gnoc]
+entity = "misc"
+score = 10
+
+[trjndwnlder]
+entity = "misc"
+score = 10
+
+[habx]
+entity = "misc"
+score = 10
+
+[dolz]
+entity = "misc"
+score = 10
+
+[euox]
+entity = "misc"
+score = 10
+
+[worf]
+entity = "misc"
+score = 10
+
+[fkrd]
+entity = "misc"
+score = 10
+
+[ecey]
+entity = "misc"
+score = 10
+
+[gcqn]
+entity = "misc"
+score = 10
+
+[ghjy]
+entity = "misc"
+score = 10
+
+[dffs]
+entity = "misc"
+score = 10
+
+[cdmt]
+entity = "misc"
+score = 10
+
+[csru]
+entity = "misc"
+score = 10
+
+[efsy]
+entity = "misc"
+score = 10
+
+[frpt]
+entity = "misc"
+score = 10
+
+[khue]
+entity = "misc"
+score = 10
+
+[eceg]
+entity = "misc"
+score = 10
+
+[dlsw]
+entity = "misc"
+score = 10
+
+[liei]
+entity = "misc"
+score = 10
+
+[fmeh]
+entity = "misc"
+score = 10
+
+[eshm]
+entity = "misc"
+score = 10
+
+[frzm]
+entity = "misc"
+score = 10
+
+[gami]
+entity = "misc"
+score = 10
+
+[gjdx]
+entity = "misc"
+score = 10
+
+[haax]
+entity = "misc"
+score = 10
+
+[bnkg]
+entity = "misc"
+score = 10
+
+[fido]
+entity = "misc"
+score = 10
+
+[gawm]
+entity = "misc"
+score = 10
+
+[networks]
+entity = "misc"
+score = 10
+
+[cula]
+entity = "misc"
+score = 10
+
+[eexn]
+entity = "misc"
+score = 10
+
+[dtli]
+entity = "misc"
+score = 10
+
+[uppwg]
+entity = "misc"
+score = 10
+
+[fxmf]
+entity = "misc"
+score = 10
+
+[gaox]
+entity = "misc"
+score = 10
+
+[rage]
+entity = "misc"
+score = 10
+
+[tpyj]
+entity = "misc"
+score = 10
+
+[eepy]
+entity = "misc"
+score = 10
+
+[gmfk]
+entity = "misc"
+score = 10
+
+[gbzb]
+entity = "misc"
+score = 10
+
+[beso]
+entity = "misc"
+score = 10
+
+[gaxq]
+entity = "misc"
+score = 10
+
+[ggxg]
+entity = "misc"
+score = 10
+
+[besc]
+entity = "misc"
+score = 10
+
+[xasu]
+entity = "misc"
+score = 10
+
+[lofk]
+entity = "misc"
+score = 10
+
+[cieg]
+entity = "misc"
+score = 10
+
+[dnmg]
+entity = "misc"
+score = 10
+
+[upbr]
+entity = "misc"
+score = 10
+
+[cmrtazog]
+entity = "misc"
+score = 10
+
+[dbgb]
+entity = "misc"
+score = 10
+
+[djvz]
+entity = "misc"
+score = 10
+
+[dmot]
+entity = "misc"
+score = 10
+
+[cvav]
+entity = "misc"
+score = 10
+
+[lfqf]
+entity = "misc"
+score = 10
+
+[generator]
+entity = "misc"
+score = 10
+
+[hlsr]
+entity = "misc"
+score = 10
+
+[dlsm]
+entity = "misc"
+score = 10
+
+[eolb]
+entity = "misc"
+score = 10
+
+[gimv]
+entity = "misc"
+score = 10
+
+[cfvx]
+entity = "misc"
+score = 10
+
+[drjl]
+entity = "misc"
+score = 10
+
+[bxxi]
+entity = "misc"
+score = 10
+
+[dsearch]
+entity = "misc"
+score = 10
+
+[coupon]
+entity = "misc"
+score = 10
+
+[mzny]
+entity = "misc"
+score = 10
+
+[hxyf]
+entity = "misc"
+score = 10
+
+[ccsy]
+entity = "misc"
+score = 10
+
+[jbml]
+entity = "misc"
+score = 10
+
+[tebc]
+entity = "misc"
+score = 10
+
+[cjwu]
+entity = "misc"
+score = 10
+
+[tskx]
+entity = "misc"
+score = 10
+
+[emke]
+entity = "misc"
+score = 10
+
+[dllx]
+entity = "misc"
+score = 10
+
+[cmrz]
+entity = "misc"
+score = 10
+
+[rebb]
+entity = "misc"
+score = 10
+
+[cdib]
+entity = "misc"
+score = 10
+
+[tnar]
+entity = "misc"
+score = 10
+
+[cfdr]
+entity = "misc"
+score = 10
+
+[dlbk]
+entity = "misc"
+score = 10
+
+[dumper]
+entity = "misc"
+score = 10
+
+[zazs]
+entity = "misc"
+score = 10
+
+[decep]
+entity = "misc"
+score = 10
+
+[duwx]
+entity = "misc"
+score = 10
+
+[bfyd]
+entity = "misc"
+score = 10
+
+[duxn]
+entity = "misc"
+score = 10
+
+[dvan]
+entity = "misc"
+score = 10
+
+[duev]
+entity = "misc"
+score = 10
+
+[rioid]
+entity = "misc"
+score = 10
+
+[dufz]
+entity = "misc"
+score = 10
+
+[ampy]
+entity = "misc"
+score = 10
+
+[check]
+entity = "misc"
+score = 10
+
+[disabled]
+entity = "misc"
+score = 10
+
+[stub]
+entity = "misc"
+score = 10
+
+[unclassified]
+entity = "misc"
+score = 10
+
+[casp]
+entity = "misc"
+score = 10
+
+[cdlx]
+entity = "misc"
+score = 10
+
+[fipr]
+entity = "misc"
+score = 10
+
+[bemi]
+entity = "misc"
+score = 10
+
+[lvjw]
+entity = "misc"
+score = 10
+
+[gord]
+entity = "misc"
+score = 10
+
+[game]
+entity = "misc"
+score = 10
+
+[mddf]
+entity = "misc"
+score = 10
+
+[zjkp]
+entity = "misc"
+score = 10
+
+[ween]
+entity = "misc"
+score = 10
+
+[wcvc]
+entity = "misc"
+score = 10
+
+[cdih]
+entity = "misc"
+score = 10
+
+[genw]
+entity = "misc"
+score = 10
+
+[logo]
+entity = "misc"
+score = 10
+
+[dris]
+entity = "misc"
+score = 10
+
+[mbda]
+entity = "misc"
+score = 10
+
+[dzav]
+entity = "misc"
+score = 10
+
+[cosb]
+entity = "misc"
+score = 10
+
+[buuc]
+entity = "misc"
+score = 10
+
+[folb]
+entity = "misc"
+score = 10
+
+[gaca]
+entity = "misc"
+score = 10
+
+[dnow]
+entity = "misc"
+score = 10
+
+[vrrp]
+entity = "misc"
+score = 10
+
+[oans]
+entity = "misc"
+score = 10
+
+[buph]
+entity = "misc"
+score = 10
+
+[kernelps]
+entity = "misc"
+score = 10
+
+[byem]
+entity = "misc"
+score = 10
+
+[ctqy]
+entity = "misc"
+score = 10
+
+[lfjd]
+entity = "misc"
+score = 10
+
+[mjbb]
+entity = "misc"
+score = 10
+
+[lisw]
+entity = "misc"
+score = 10
+
+[dgpn]
+entity = "misc"
+score = 10
+
+[badn]
+entity = "misc"
+score = 10
+
+[corz]
+entity = "misc"
+score = 10
+
+[tnsc]
+entity = "misc"
+score = 10
+
+[cedr]
+entity = "misc"
+score = 10
+
+[cirz]
+entity = "misc"
+score = 10
+
+[waon]
+entity = "misc"
+score = 10
+
+[bkab]
+entity = "misc"
+score = 10
+
+[cmis]
+entity = "misc"
+score = 10
+
+[ealm]
+entity = "misc"
+score = 10
+
+[geqs]
+entity = "misc"
+score = 10
+
+[cnkd]
+entity = "misc"
+score = 10
+
+[cbpp]
+entity = "misc"
+score = 10
+
+[ghua]
+entity = "misc"
+score = 10
+
+[ggky]
+entity = "misc"
+score = 10
+
+[buul]
+entity = "misc"
+score = 10
+
+[kfun]
+entity = "misc"
+score = 10
+
+[danma]
+entity = "misc"
+score = 10
+
+[drzr]
+entity = "misc"
+score = 10
+
+[bewn]
+entity = "misc"
+score = 10
+
+[dafu]
+entity = "misc"
+score = 10
+
+[bizd]
+entity = "misc"
+score = 10
+
+[czzl]
+entity = "misc"
+score = 10
+
+[dxac]
+entity = "misc"
+score = 10
+
+[mona]
+entity = "misc"
+score = 10
+
+[bsvd]
+entity = "misc"
+score = 10
+
+[gens]
+entity = "misc"
+score = 10
+
+[upgi]
+entity = "misc"
+score = 10
+
+[begn]
+entity = "misc"
+score = 10
+
+[debt]
+entity = "misc"
+score = 10
+
+[gvsp]
+entity = "misc"
+score = 10
+
+[evrt]
+entity = "misc"
+score = 10
+
+[doyd]
+entity = "misc"
+score = 10
+
+[dktg]
+entity = "misc"
+score = 10
+
+[frif]
+entity = "misc"
+score = 10
+
+[dykz]
+entity = "misc"
+score = 10
+
+[dylj]
+entity = "misc"
+score = 10
+
+[dyhv]
+entity = "misc"
+score = 10
+
+[dxlt]
+entity = "misc"
+score = 10
+
+[sjov]
+entity = "misc"
+score = 10
+
+[tree]
+entity = "misc"
+score = 10
+
+[bemu]
+entity = "misc"
+score = 10
+
+[dwtz]
+entity = "misc"
+score = 10
+
+[dvws]
+entity = "misc"
+score = 10
+
+[dwob]
+entity = "misc"
+score = 10
+
+[dyir]
+entity = "misc"
+score = 10
+
+[dzor]
+entity = "misc"
+score = 10
+
+[bght]
+entity = "misc"
+score = 10
+
+[poein]
+entity = "misc"
+score = 10
+
+[gddl]
+entity = "misc"
+score = 10
+
+[dvoa]
+entity = "misc"
+score = 10
+
+[slwu]
+entity = "misc"
+score = 10
+
+[zanz]
+entity = "misc"
+score = 10
+
+[gnvt]
+entity = "misc"
+score = 10
+
+[eakg]
+entity = "misc"
+score = 10
+
+[gnqk]
+entity = "misc"
+score = 10
+
+[fnstenv]
+entity = "misc"
+score = 10
+
+[dync]
+entity = "misc"
+score = 10
+
+[eben]
+entity = "misc"
+score = 10
+
+[tnmz]
+entity = "misc"
+score = 10
+
+[gnsz]
+entity = "misc"
+score = 10
+
+[goax]
+entity = "misc"
+score = 10
+
+[gmak]
+entity = "misc"
+score = 10
+
+[ebso]
+entity = "misc"
+score = 10
+
+[gkhs]
+entity = "misc"
+score = 10
+
+[gpuh]
+entity = "misc"
+score = 10
+
+[glao]
+entity = "misc"
+score = 10
+
+[cyug]
+entity = "misc"
+score = 10
+
+[gourg]
+entity = "misc"
+score = 10
+
+[deceptor]
+entity = "misc"
+score = 10
+
+[coen]
+entity = "misc"
+score = 10
+
+[eldh]
+entity = "misc"
+score = 10
+
+[beio]
+entity = "misc"
+score = 10
+
+[eair]
+entity = "misc"
+score = 10
+
+[pigrs]
+entity = "misc"
+score = 10
+
+[dwgd]
+entity = "misc"
+score = 10
+
+[tnbr]
+entity = "misc"
+score = 10
+
+[givx]
+entity = "misc"
+score = 10
+
+[gzly]
+entity = "misc"
+score = 10
+
+[gkea]
+entity = "misc"
+score = 10
+
+[csxa]
+entity = "misc"
+score = 10
+
+[gist]
+entity = "misc"
+score = 10
+
+[glol]
+entity = "misc"
+score = 10
+
+[dvuk]
+entity = "misc"
+score = 10
+
+[dxxs]
+entity = "misc"
+score = 10
+
+[ocsp]
+entity = "misc"
+score = 10
+
+[ennet]
+entity = "misc"
+score = 10
+
+[hzgk]
+entity = "misc"
+score = 10
+
+[dmbr]
+entity = "misc"
+score = 10
+
+[dwnu]
+entity = "misc"
+score = 10
+
+[glsc]
+entity = "misc"
+score = 10
+
+[gowq]
+entity = "misc"
+score = 10
+
+[cdds]
+entity = "misc"
+score = 10
+
+[ecma]
+entity = "misc"
+score = 10
+
+[ecdi]
+entity = "misc"
+score = 10
+
+[keiri]
+entity = "misc"
+score = 10
+
+[budw]
+entity = "misc"
+score = 10
+
+[gidr]
+entity = "misc"
+score = 10
+
+[micir]
+entity = "misc"
+score = 10
+
+[cusp]
+entity = "misc"
+score = 10
+
+[dxxu]
+entity = "misc"
+score = 10
+
+[guow]
+entity = "misc"
+score = 10
+
+[upcws]
+entity = "misc"
+score = 10
+
+[fuul]
+entity = "misc"
+score = 10
+
+[geux]
+entity = "misc"
+score = 10
+
+[dlsc]
+entity = "misc"
+score = 10
+
+[mcpm]
+entity = "misc"
+score = 10
+
+[cdzy]
+entity = "misc"
+score = 10
+
+[dyrl]
+entity = "misc"
+score = 10
+
+[bgia]
+entity = "misc"
+score = 10
+
+[gsdx]
+entity = "misc"
+score = 10
+
+[demt]
+entity = "misc"
+score = 10
+
+[cnyr]
+entity = "misc"
+score = 10
+
+[gwdj]
+entity = "misc"
+score = 10
+
+[maip]
+entity = "misc"
+score = 10
+
+[rman]
+entity = "misc"
+score = 10
+
+[tnoj]
+entity = "misc"
+score = 10
+
+[lxah]
+entity = "misc"
+score = 10
+
+[dnoc]
+entity = "misc"
+score = 10
+
+[ffis]
+entity = "misc"
+score = 10
+
+[tudv]
+entity = "misc"
+score = 10
+
+[eoij]
+entity = "misc"
+score = 10
+
+[beuk]
+entity = "misc"
+score = 10
+
+[ezch]
+entity = "misc"
+score = 10
+
+[lusw]
+entity = "misc"
+score = 10
+
+[biyo]
+entity = "misc"
+score = 10
+
+[ypih]
+entity = "misc"
+score = 10
+
+[enqu]
+entity = "misc"
+score = 10
+
+[bteo]
+entity = "misc"
+score = 10
+
+[faxc]
+entity = "misc"
+score = 10
+
+[dgbwya]
+entity = "misc"
+score = 10
+
+[bary]
+entity = "misc"
+score = 10
+
+[cfvv]
+entity = "misc"
+score = 10
+
+[dekw]
+entity = "misc"
+score = 10
+
+[lham]
+entity = "misc"
+score = 10
+
+[toian]
+entity = "misc"
+score = 10
+
+[tnqj]
+entity = "misc"
+score = 10
+
+[tutjx]
+entity = "misc"
+score = 10
+
+[mhja]
+entity = "misc"
+score = 10
+
+[bupi]
+entity = "misc"
+score = 10
+
+[mios]
+entity = "misc"
+score = 10
+
+[cllsb]
+entity = "misc"
+score = 10
+
+[ehyd]
+entity = "misc"
+score = 10
+
+[dydk]
+entity = "misc"
+score = 10
+
+[dmvn]
+entity = "misc"
+score = 10
+
+[ctzz]
+entity = "misc"
+score = 10
+
+[dwjx]
+entity = "misc"
+score = 10
+
+[gepn]
+entity = "misc"
+score = 10
+
+[buhuc]
+entity = "misc"
+score = 10
+
+[dwub]
+entity = "misc"
+score = 10
+
+[tpkk]
+entity = "misc"
+score = 10
+
+[dnsu]
+entity = "misc"
+score = 10
+
+[cewg]
+entity = "misc"
+score = 10
+
+[dvuq]
+entity = "misc"
+score = 10
+
+[earp]
+entity = "misc"
+score = 10
+
+[eary]
+entity = "misc"
+score = 10
+
+[eakh]
+entity = "misc"
+score = 10
+
+[eahl]
+entity = "misc"
+score = 10
+
+[aastg]
+entity = "misc"
+score = 10
+
+[dyid]
+entity = "misc"
+score = 10
+
+[bept]
+entity = "misc"
+score = 10
+
+[depy]
+entity = "misc"
+score = 10
+
+[babu]
+entity = "misc"
+score = 10
+
+[gdnw]
+entity = "misc"
+score = 10
+
+[cvxm]
+entity = "misc"
+score = 10
+
+[sdjd]
+entity = "misc"
+score = 10
+
+[miio]
+entity = "misc"
+score = 10
+
+[eafy]
+entity = "misc"
+score = 10
+
+[olerc]
+entity = "misc"
+score = 10
+
+[geie]
+entity = "misc"
+score = 10
+
+[cycj]
+entity = "misc"
+score = 10
+
+[tpfb]
+entity = "misc"
+score = 10
+
+[cuyz]
+entity = "misc"
+score = 10
+
+[ctxa]
+entity = "misc"
+score = 10
+
+[clka]
+entity = "misc"
+score = 10
+
+[cdkl]
+entity = "misc"
+score = 10
+
+[related]
+entity = "misc"
+score = 10
+
+[cgbd]
+entity = "misc"
+score = 10
+
+[cujo]
+entity = "misc"
+score = 10
+
+[clyk]
+entity = "misc"
+score = 10
+
+[cgdo]
+entity = "misc"
+score = 10
+
+[cdon]
+entity = "misc"
+score = 10
+
+[dsgv]
+entity = "misc"
+score = 10
+
+[cejo]
+entity = "misc"
+score = 10
+
+[clum]
+entity = "misc"
+score = 10
+
+[cuff]
+entity = "misc"
+score = 10
+
+[cmsy]
+entity = "misc"
+score = 10
+
+[cuya]
+entity = "misc"
+score = 10
+
+[clnu]
+entity = "misc"
+score = 10
+
+[fmwb]
+entity = "misc"
+score = 10
+
+[nuwl]
+entity = "misc"
+score = 10
+
+[buwx]
+entity = "misc"
+score = 10
+
+[cnya]
+entity = "misc"
+score = 10
+
+[tnsb]
+entity = "misc"
+score = 10
+
+[eyda]
+entity = "misc"
+score = 10
+
+[fate]
+entity = "misc"
+score = 10
+
+[clph]
+entity = "misc"
+score = 10
+
+[ceae]
+entity = "misc"
+score = 10
+
+[cull]
+entity = "misc"
+score = 10
+
+[iment]
+entity = "misc"
+score = 10
+
+[oware]
+entity = "misc"
+score = 10
+
+[fixer]
+entity = "misc"
+score = 10
+
+[born]
+entity = "misc"
+score = 10
+
+[bedw]
+entity = "misc"
+score = 10
+
+[dryf]
+entity = "misc"
+score = 10
+
+[kozu]
+entity = "misc"
+score = 10
+
+[feoy]
+entity = "misc"
+score = 10
+
+[vsmd]
+entity = "misc"
+score = 10
+
+[fkxb]
+entity = "misc"
+score = 10
+
+[gllg]
+entity = "misc"
+score = 10
+
+[drky]
+entity = "misc"
+score = 10
+
+[cong]
+entity = "misc"
+score = 10
+
+[btqm]
+entity = "misc"
+score = 10
+
+[bubu]
+entity = "misc"
+score = 10
+
+[iyll]
+entity = "misc"
+score = 10
+
+[xatt]
+entity = "misc"
+score = 10
+
+[grbnl]
+entity = "misc"
+score = 10
+
+[nynyx]
+entity = "misc"
+score = 10
+
+[smil]
+entity = "misc"
+score = 10
+
+[eeyl]
+entity = "misc"
+score = 10
+
+[lpmn]
+entity = "misc"
+score = 10
+
+[cbus]
+entity = "misc"
+score = 10
+
+[bubg]
+entity = "misc"
+score = 10
+
+[tnyz]
+entity = "misc"
+score = 10
+
+[brrf]
+entity = "misc"
+score = 10
+
+[beod]
+entity = "misc"
+score = 10
+
+[cokz]
+entity = "misc"
+score = 10
+
+[copc]
+entity = "misc"
+score = 10
+
+[cnpb]
+entity = "misc"
+score = 10
+
+[faxa]
+entity = "misc"
+score = 10
+
+[cust]
+entity = "misc"
+score = 10
+
+[famq]
+entity = "misc"
+score = 10
+
+[cimd]
+entity = "misc"
+score = 10
+
+[ekhm]
+entity = "misc"
+score = 10
+
+[beuf]
+entity = "misc"
+score = 10
+
+[gals]
+entity = "misc"
+score = 10
+
+[evtv]
+entity = "misc"
+score = 10
+
+[blxe]
+entity = "misc"
+score = 10
+
+[gacg]
+entity = "misc"
+score = 10
+
+[orctw]
+entity = "misc"
+score = 10
+
+[frwl]
+entity = "misc"
+score = 10
+
+[fkra]
+entity = "misc"
+score = 10
+
+[evil]
+entity = "misc"
+score = 10
+
+[store]
+entity = "misc"
+score = 10
+
+[name]
+entity = "misc"
+score = 10
+
+[sandbox]
+entity = "misc"
+score = 10
+
+[gapc]
+entity = "misc"
+score = 10
+
+[fibn]
+entity = "misc"
+score = 10
+
+[dsrk]
+entity = "misc"
+score = 10
+
+[gcnd]
+entity = "misc"
+score = 10
+
+[gmbs]
+entity = "misc"
+score = 10
+
+[xatw]
+entity = "misc"
+score = 10
+
+[eroa]
+entity = "misc"
+score = 10
+
+[bokt]
+entity = "misc"
+score = 10
+
+[boat]
+entity = "misc"
+score = 10
+
+[daxt]
+entity = "misc"
+score = 10
+
+[cafs]
+entity = "misc"
+score = 10
+
+[eecn]
+entity = "misc"
+score = 10
+
+[vnms]
+entity = "misc"
+score = 10
+
+[duac]
+entity = "misc"
+score = 10
+
+[kbmf]
+entity = "misc"
+score = 10
+
+[lekf]
+entity = "misc"
+score = 10
+
+[kfsb]
+entity = "misc"
+score = 10
+
+[czyb]
+entity = "misc"
+score = 10
+
+[huey]
+entity = "misc"
+score = 10
+
+[feel]
+entity = "misc"
+score = 10
+
+[drwp]
+entity = "misc"
+score = 10
+
+[dahk]
+entity = "misc"
+score = 10
+
+[enux]
+entity = "misc"
+score = 10
+
+[mrma]
+entity = "misc"
+score = 10
+
+[cila]
+entity = "misc"
+score = 10
+
+[bxbn]
+entity = "misc"
+score = 10
+
+[baud]
+entity = "misc"
+score = 10
+
+[dmei]
+entity = "misc"
+score = 10
+
+[daod]
+entity = "misc"
+score = 10
+
+[cerg]
+entity = "misc"
+score = 10
+
+[lrly]
+entity = "misc"
+score = 10
+
+[gytq]
+entity = "misc"
+score = 10
+
+[bsot]
+entity = "misc"
+score = 10
+
+[cdps]
+entity = "misc"
+score = 10
+
+[gmes]
+entity = "misc"
+score = 10
+
+[iena]
+entity = "misc"
+score = 10
+
+[lvyc]
+entity = "misc"
+score = 10
+
+[ganf]
+entity = "misc"
+score = 10
+
+[nyah]
+entity = "misc"
+score = 10
+
+[evfi]
+entity = "misc"
+score = 10
+
+[juiax]
+entity = "misc"
+score = 10
+
+[idawo]
+entity = "misc"
+score = 10
+
+[ggzi]
+entity = "misc"
+score = 10
+
+[ezow]
+entity = "misc"
+score = 10
+
+[doca]
+entity = "misc"
+score = 10
+
+[dmdg]
+entity = "misc"
+score = 10
+
+[dske]
+entity = "misc"
+score = 10
+
+[clfr]
+entity = "misc"
+score = 10
+
+[daox]
+entity = "misc"
+score = 10
+
+[bxku]
+entity = "misc"
+score = 10
+
+[chpf]
+entity = "misc"
+score = 10
+
+[cydj]
+entity = "misc"
+score = 10
+
+[cmdz]
+entity = "misc"
+score = 10
+
+[daai]
+entity = "misc"
+score = 10
+
+[frpe]
+entity = "misc"
+score = 10
+
+[dkoj]
+entity = "misc"
+score = 10
+
+[bekh]
+entity = "misc"
+score = 10
+
+[bucy]
+entity = "misc"
+score = 10
+
+[kyxb]
+entity = "misc"
+score = 10
+
+[elsy]
+entity = "misc"
+score = 10
+
+[dsxs]
+entity = "misc"
+score = 10
+
+[hano]
+entity = "misc"
+score = 10
+
+[cpwi]
+entity = "misc"
+score = 10
+
+[dsxw]
+entity = "misc"
+score = 10
+
+[cmfy]
+entity = "misc"
+score = 10
+
+[bthn]
+entity = "misc"
+score = 10
+
+[bizg]
+entity = "misc"
+score = 10
+
+[daps]
+entity = "misc"
+score = 10
+
+[dsho]
+entity = "misc"
+score = 10
+
+[dpyb]
+entity = "misc"
+score = 10
+
+[cigt]
+entity = "misc"
+score = 10
+
+[bdro]
+entity = "misc"
+score = 10
+
+[dmsn]
+entity = "misc"
+score = 10
+
+[olern]
+entity = "misc"
+score = 10
+
+[cobe]
+entity = "misc"
+score = 10
+
+[lozu]
+entity = "misc"
+score = 10
+
+[cibb]
+entity = "misc"
+score = 10
+
+[esit]
+entity = "misc"
+score = 10
+
+[ezlq]
+entity = "misc"
+score = 10
+
+[bahe]
+entity = "misc"
+score = 10
+
+[duif]
+entity = "misc"
+score = 10
+
+[dozk]
+entity = "misc"
+score = 10
+
+[fags]
+entity = "misc"
+score = 10
+
+[ciai]
+entity = "misc"
+score = 10
+
+[xnsc]
+entity = "misc"
+score = 10
+
+[gurt]
+entity = "misc"
+score = 10
+
+[denc]
+entity = "misc"
+score = 10
+
+[ckzu]
+entity = "misc"
+score = 10
+
+[bsdr]
+entity = "misc"
+score = 10
+
+[laba]
+entity = "misc"
+score = 10
+
+[cics]
+entity = "misc"
+score = 10
+
+[core]
+entity = "misc"
+score = 10
+
+[duxk]
+entity = "misc"
+score = 10
+
+[liax]
+entity = "misc"
+score = 10
+
+[liuv]
+entity = "misc"
+score = 10
+
+[runtime]
+entity = "misc"
+score = 10
+
+[cmro]
+entity = "misc"
+score = 10
+
+[bixe]
+entity = "misc"
+score = 10
+
+[rovb]
+entity = "misc"
+score = 10
+
+[besy]
+entity = "misc"
+score = 10
+
+[ftes]
+entity = "misc"
+score = 10
+
+[mqlf]
+entity = "misc"
+score = 10
+
+[dsca]
+entity = "misc"
+score = 10
+
+[buke]
+entity = "misc"
+score = 10
+
+[ldhj]
+entity = "misc"
+score = 10
+
+[coug]
+entity = "misc"
+score = 10
+
+[lnhe]
+entity = "misc"
+score = 10
+
+[fkzh]
+entity = "misc"
+score = 10
+
+[dras]
+entity = "misc"
+score = 10
+
+[dsbb]
+entity = "misc"
+score = 10
+
+[djzy]
+entity = "misc"
+score = 10
+
+[eeey]
+entity = "misc"
+score = 10
+
+[yytz]
+entity = "misc"
+score = 10
+
+[trjdnldr]
+entity = "misc"
+score = 10
+
+[ohio]
+entity = "misc"
+score = 10
+
+[cemk]
+entity = "misc"
+score = 10
+
+[xaop]
+entity = "misc"
+score = 10
+
+[cfmo]
+entity = "misc"
+score = 10
+
+[lkda]
+entity = "misc"
+score = 10
+
+[bstq]
+entity = "misc"
+score = 10
+
+[kypq]
+entity = "misc"
+score = 10
+
+[bbyt]
+entity = "misc"
+score = 10
+
+[brhk]
+entity = "misc"
+score = 10
+
+[bmet]
+entity = "misc"
+score = 10
+
+[bqwa]
+entity = "misc"
+score = 10
+
+[dktx]
+entity = "misc"
+score = 10
+
+[gerc]
+entity = "misc"
+score = 10
+
+[chof]
+entity = "misc"
+score = 10
+
+[keaq]
+entity = "misc"
+score = 10
+
+[kday]
+entity = "misc"
+score = 10
+
+[elzy]
+entity = "misc"
+score = 10
+
+[cjaz]
+entity = "misc"
+score = 10
+
+[escv]
+entity = "misc"
+score = 10
+
+[disa]
+entity = "misc"
+score = 10
+
+[loly]
+entity = "misc"
+score = 10
+
+[luck]
+entity = "misc"
+score = 10
+
+[vptn]
+entity = "misc"
+score = 10
+
+[bdoc]
+entity = "misc"
+score = 10
+
+[case]
+entity = "misc"
+score = 10
+
+[budn]
+entity = "misc"
+score = 10
+
+[monyf]
+entity = "misc"
+score = 10
+
+[cbur]
+entity = "misc"
+score = 10
+
+[btps]
+entity = "misc"
+score = 10
+
+[gowi]
+entity = "misc"
+score = 10
+
+[eaka]
+entity = "misc"
+score = 10
+
+[dnex]
+entity = "misc"
+score = 10
+
+[cvbr]
+entity = "misc"
+score = 10
+
+[nsaol]
+entity = "misc"
+score = 10
+
+[cbsz]
+entity = "misc"
+score = 10
+
+[dunv]
+entity = "misc"
+score = 10
+
+[smartpcfixer]
+entity = "misc"
+score = 10
+
+[cdmz]
+entity = "misc"
+score = 10
+
+[xpsdm]
+entity = "misc"
+score = 10
+
+[dxzj]
+entity = "misc"
+score = 10
+
+[qelf]
+entity = "misc"
+score = 10
+
+[dmzz]
+entity = "misc"
+score = 10
+
+[reru]
+entity = "misc"
+score = 10
+
+[bwos]
+entity = "misc"
+score = 10
+
+[kymo]
+entity = "misc"
+score = 10
+
+[cbmi]
+entity = "misc"
+score = 10
+
+[decode]
+entity = "misc"
+score = 10
+
+[index]
+entity = "misc"
+score = 10
+
+[deml]
+entity = "misc"
+score = 10
+
+[giog]
+entity = "misc"
+score = 10
+
+[lnspa]
+entity = "misc"
+score = 10
+
+[ltrv]
+entity = "misc"
+score = 10
+
+[bybx]
+entity = "misc"
+score = 10
+
+[gjaz]
+entity = "misc"
+score = 10
+
+[dytd]
+entity = "misc"
+score = 10
+
+[dzer]
+entity = "misc"
+score = 10
+
+[cdat]
+entity = "misc"
+score = 10
+
+[bten]
+entity = "misc"
+score = 10
+
+[buzu]
+entity = "misc"
+score = 10
+
+[coqr]
+entity = "misc"
+score = 10
+
+[bzaz]
+entity = "misc"
+score = 10
+
+[sypl]
+entity = "misc"
+score = 10
+
+[difn]
+entity = "misc"
+score = 10
+
+[llcy]
+entity = "misc"
+score = 10
+
+[dxiy]
+entity = "misc"
+score = 10
+
+[errd]
+entity = "misc"
+score = 10
+
+[bqpy]
+entity = "misc"
+score = 10
+
+[lvid]
+entity = "misc"
+score = 10
+
+[cepi]
+entity = "misc"
+score = 10
+
+[bgss]
+entity = "misc"
+score = 10
+
+[gepc]
+entity = "misc"
+score = 10
+
+[buee]
+entity = "misc"
+score = 10
+
+[btgm]
+entity = "misc"
+score = 10
+
+[dwkf]
+entity = "misc"
+score = 10
+
+[ccni]
+entity = "misc"
+score = 10
+
+[cvuf]
+entity = "misc"
+score = 10
+
+[uprt]
+entity = "misc"
+score = 10
+
+[iynx]
+entity = "misc"
+score = 10
+
+[hngo]
+entity = "misc"
+score = 10
+
+[lvzv]
+entity = "misc"
+score = 10
+
+[buds]
+entity = "misc"
+score = 10
+
+[duxf]
+entity = "misc"
+score = 10
+
+[dlap]
+entity = "misc"
+score = 10
+
+[nird]
+entity = "misc"
+score = 10
+
+[bshz]
+entity = "misc"
+score = 10
+
+[brsz]
+entity = "misc"
+score = 10
+
+[ecrp]
+entity = "misc"
+score = 10
+
+[yzerf]
+entity = "misc"
+score = 10
+
+[golp]
+entity = "misc"
+score = 10
+
+[deid]
+entity = "misc"
+score = 10
+
+[yepng]
+entity = "misc"
+score = 10
+
+[cmti]
+entity = "misc"
+score = 10
+
+[cgir]
+entity = "misc"
+score = 10
+
+[fmml]
+entity = "misc"
+score = 10
+
+[soft]
+entity = "misc"
+score = 10
+
+[bdhw]
+entity = "misc"
+score = 10
+
+[drcz]
+entity = "misc"
+score = 10
+
+[csng]
+entity = "misc"
+score = 10
+
+[emfy]
+entity = "misc"
+score = 10
+
+[cmrk]
+entity = "misc"
+score = 10
+
+[ddoi]
+entity = "misc"
+score = 10
+
+[fapd]
+entity = "misc"
+score = 10
+
+[cgyn]
+entity = "misc"
+score = 10
+
+[ptch]
+entity = "misc"
+score = 10
+
+[dgod]
+entity = "misc"
+score = 10
+
+[cbnu]
+entity = "misc"
+score = 10
+
+[cosm]
+entity = "misc"
+score = 10
+
+[iwkr]
+entity = "misc"
+score = 10
+
+[vofj]
+entity = "misc"
+score = 10
+
+[buvs]
+entity = "misc"
+score = 10
+
+[cehy]
+entity = "misc"
+score = 10
+
+[hkjw]
+entity = "misc"
+score = 10
+
+[egsb]
+entity = "misc"
+score = 10
+
+[fryt]
+entity = "misc"
+score = 10
+
+[tnsx]
+entity = "misc"
+score = 10
+
+[evvm]
+entity = "misc"
+score = 10
+
+[leak]
+entity = "misc"
+score = 10
+
+[drho]
+entity = "misc"
+score = 10
+
+[ervy]
+entity = "misc"
+score = 10
+
+[emly]
+entity = "misc"
+score = 10
+
+[cver]
+entity = "misc"
+score = 10
+
+[cmyn]
+entity = "misc"
+score = 10
+
+[kitc]
+entity = "misc"
+score = 10
+
+[buko]
+entity = "misc"
+score = 10
+
+[hbks]
+entity = "misc"
+score = 10
+
+[imhn]
+entity = "misc"
+score = 10
+
+[dsvp]
+entity = "misc"
+score = 10
+
+[dest]
+entity = "misc"
+score = 10
+
+[cyvw]
+entity = "misc"
+score = 10
+
+[byew]
+entity = "misc"
+score = 10
+
+[bfcp]
+entity = "misc"
+score = 10
+
+[biyg]
+entity = "misc"
+score = 10
+
+[bved]
+entity = "misc"
+score = 10
+
+[btno]
+entity = "misc"
+score = 10
+
+[cfyi]
+entity = "misc"
+score = 10
+
+[cgob]
+entity = "misc"
+score = 10
+
+[gkod]
+entity = "misc"
+score = 10
+
+[eocw]
+entity = "misc"
+score = 10
+
+[busy]
+entity = "misc"
+score = 10
+
+[search]
+entity = "misc"
+score = 10
+
+[integrated]
+entity = "misc"
+score = 10
+
+[technologies]
+entity = "misc"
+score = 10
+
+[cedv]
+entity = "misc"
+score = 10
+
+[cbkh]
+entity = "misc"
+score = 10
+
+[digi]
+entity = "misc"
+score = 10
+
+[wyoj]
+entity = "misc"
+score = 10
+
+[cuzn]
+entity = "misc"
+score = 10
+
+[hbrs]
+entity = "misc"
+score = 10
+
+[cdsj]
+entity = "misc"
+score = 10
+
+[kqlb]
+entity = "misc"
+score = 10
+
+[coua]
+entity = "misc"
+score = 10
+
+[calr]
+entity = "misc"
+score = 10
+
+[expm]
+entity = "misc"
+score = 10
+
+[bass]
+entity = "misc"
+score = 10
+
+[eamd]
+entity = "misc"
+score = 10
+
+[jtlc]
+entity = "misc"
+score = 10
+
+[ctpn]
+entity = "misc"
+score = 10
+
+[gmeo]
+entity = "misc"
+score = 10
+
+[gryk]
+entity = "misc"
+score = 10
+
+[bejm]
+entity = "misc"
+score = 10
+
+[bojx]
+entity = "misc"
+score = 10
+
+[jbxw]
+entity = "misc"
+score = 10
+
+[thin]
+entity = "misc"
+score = 10
+
+[cicu]
+entity = "misc"
+score = 10
+
+[mzlt]
+entity = "misc"
+score = 10
+
+[boqt]
+entity = "misc"
+score = 10
+
+[ebbn]
+entity = "misc"
+score = 10
+
+[famz]
+entity = "misc"
+score = 10
+
+[cehz]
+entity = "misc"
+score = 10
+
+[drux]
+entity = "misc"
+score = 10
+
+[bocg]
+entity = "misc"
+score = 10
+
+[lodu]
+entity = "misc"
+score = 10
+
+[dxbh]
+entity = "misc"
+score = 10
+
+[cbav]
+entity = "misc"
+score = 10
+
+[bujz]
+entity = "misc"
+score = 10
+
+[kdab]
+entity = "misc"
+score = 10
+
+[blip]
+entity = "misc"
+score = 10
+
+[lcoe]
+entity = "misc"
+score = 10
+
+[hugy]
+entity = "misc"
+score = 10
+
+[drsc]
+entity = "misc"
+score = 10
+
+[exda]
+entity = "misc"
+score = 10
+
+[hlqy]
+entity = "misc"
+score = 10
+
+[cfmr]
+entity = "misc"
+score = 10
+
+[daik]
+entity = "misc"
+score = 10
+
+[dtgb]
+entity = "misc"
+score = 10
+
+[installer]
+entity = "misc"
+score = 10
+
+[fali]
+entity = "misc"
+score = 10
+
+[birz]
+entity = "misc"
+score = 10
+
+[biir]
+entity = "misc"
+score = 10
+
+[bwhx]
+entity = "misc"
+score = 10
+
+[bats]
+entity = "misc"
+score = 10
+
+[buqz]
+entity = "misc"
+score = 10
+
+[deyi]
+entity = "misc"
+score = 10
+
+[ifou]
+entity = "misc"
+score = 10
+
+[brlx]
+entity = "misc"
+score = 10
+
+[biep]
+entity = "misc"
+score = 10
+
+[eymk]
+entity = "misc"
+score = 10
+
+[lstk]
+entity = "misc"
+score = 10
+
+[oqfh]
+entity = "misc"
+score = 10
+
+[mkem]
+entity = "misc"
+score = 10
+
+[cmod]
+entity = "misc"
+score = 10
+
+[bedy]
+entity = "misc"
+score = 10
+
+[kbnf]
+entity = "misc"
+score = 10
+
+[blge]
+entity = "misc"
+score = 10
+
+[vooi]
+entity = "misc"
+score = 10
+
+[ekth]
+entity = "misc"
+score = 10
+
+[bixb]
+entity = "misc"
+score = 10
+
+[traw]
+entity = "misc"
+score = 10
+
+[dzyg]
+entity = "misc"
+score = 10
+
+[dpyc]
+entity = "misc"
+score = 10
+
+[bxsm]
+entity = "misc"
+score = 10
+
+[port]
+entity = "misc"
+score = 10
+
+[sakh]
+entity = "misc"
+score = 10
+
+[coui]
+entity = "misc"
+score = 10
+
+[tpwx]
+entity = "misc"
+score = 10
+
+[bwou]
+entity = "misc"
+score = 10
+
+[evjp]
+entity = "misc"
+score = 10
+
+[bsof]
+entity = "misc"
+score = 10
+
+[btbi]
+entity = "misc"
+score = 10
+
+[emfd]
+entity = "misc"
+score = 10
+
+[qjxn]
+entity = "misc"
+score = 10
+
+[bafu]
+entity = "misc"
+score = 10
+
+[drey]
+entity = "misc"
+score = 10
+
+[cydp]
+entity = "misc"
+score = 10
+
+[brha]
+entity = "misc"
+score = 10
+
+[bifr]
+entity = "misc"
+score = 10
+
+[cgxk]
+entity = "misc"
+score = 10
+
+[bcys]
+entity = "misc"
+score = 10
+
+[ggbf]
+entity = "misc"
+score = 10
+
+[beup]
+entity = "misc"
+score = 10
+
+[duuz]
+entity = "misc"
+score = 10
+
+[epoe]
+entity = "misc"
+score = 10
+
+[bzut]
+entity = "misc"
+score = 10
+
+[buad]
+entity = "misc"
+score = 10
+
+[dvyb]
+entity = "misc"
+score = 10
+
+[sgnm]
+entity = "misc"
+score = 10
+
+[xauj]
+entity = "misc"
+score = 10
+
+[jvwl]
+entity = "misc"
+score = 10
+
+[bomn]
+entity = "misc"
+score = 10
+
+[netsetter]
+entity = "misc"
+score = 10
+
+[cmuz]
+entity = "misc"
+score = 10
+
+[ears]
+entity = "misc"
+score = 10
+
+[mbme]
+entity = "misc"
+score = 10
+
+[cdlz]
+entity = "misc"
+score = 10
+
+[lmxk]
+entity = "misc"
+score = 10
+
+[enro]
+entity = "misc"
+score = 10
+
+[lmny]
+entity = "misc"
+score = 10
+
+[fmoa]
+entity = "misc"
+score = 10
+
+[brhz]
+entity = "misc"
+score = 10
+
+[lnxk]
+entity = "misc"
+score = 10
+
+[daqa]
+entity = "misc"
+score = 10
+
+[dwez]
+entity = "misc"
+score = 10
+
+[eini]
+entity = "misc"
+score = 10
+
+[cdrk]
+entity = "misc"
+score = 10
+
+[loxt]
+entity = "misc"
+score = 10
+
+[corb]
+entity = "misc"
+score = 10
+
+[cfgl]
+entity = "misc"
+score = 10
+
+[fffo]
+entity = "misc"
+score = 10
+
+[caux]
+entity = "misc"
+score = 10
+
+[dsuk]
+entity = "misc"
+score = 10
+
+[ctsk]
+entity = "misc"
+score = 10
+
+[fask]
+entity = "misc"
+score = 10
+
+[xarx]
+entity = "misc"
+score = 10
+
+[odej]
+entity = "misc"
+score = 10
+
+[fvio]
+entity = "misc"
+score = 10
+
+[csiy]
+entity = "misc"
+score = 10
+
+[apilt]
+entity = "misc"
+score = 10
+
+[euqk]
+entity = "misc"
+score = 10
+
+[exjx]
+entity = "misc"
+score = 10
+
+[durf]
+entity = "misc"
+score = 10
+
+[cyoy]
+entity = "misc"
+score = 10
+
+[cwor]
+entity = "misc"
+score = 10
+
+[euio]
+entity = "misc"
+score = 10
+
+[bzhc]
+entity = "misc"
+score = 10
+
+[beko]
+entity = "misc"
+score = 10
+
+[cdkz]
+entity = "misc"
+score = 10
+
+[defn]
+entity = "misc"
+score = 10
+
+[dsih]
+entity = "misc"
+score = 10
+
+[clzz]
+entity = "misc"
+score = 10
+
+[caqx]
+entity = "misc"
+score = 10
+
+[bamf]
+entity = "misc"
+score = 10
+
+[crlo]
+entity = "misc"
+score = 10
+
+[daaj]
+entity = "misc"
+score = 10
+
+[iynk]
+entity = "misc"
+score = 10
+
+[khgs]
+entity = "misc"
+score = 10
+
+[briw]
+entity = "misc"
+score = 10
+
+[killer]
+entity = "misc"
+score = 10
+
+[ultra]
+entity = "misc"
+score = 10
+
+[buel]
+entity = "misc"
+score = 10
+
+[derd]
+entity = "misc"
+score = 10
+
+[saru]
+entity = "misc"
+score = 10
+
+[oijb]
+entity = "misc"
+score = 10
+
+[bobo]
+entity = "misc"
+score = 10
+
+[jpds]
+entity = "misc"
+score = 10
+
+[fllp]
+entity = "misc"
+score = 10
+
+[eafg]
+entity = "misc"
+score = 10
+
+[dsfo]
+entity = "misc"
+score = 10
+
+[cvim]
+entity = "misc"
+score = 10
+
+[eaoe]
+entity = "misc"
+score = 10
+
+[gpgj]
+entity = "misc"
+score = 10
+
+[erlt]
+entity = "misc"
+score = 10
+
+[cbux]
+entity = "misc"
+score = 10
+
+[gohc]
+entity = "misc"
+score = 10
+
+[glni]
+entity = "misc"
+score = 10
+
+[kciro]
+entity = "misc"
+score = 10
+
+[oweppned]
+entity = "misc"
+score = 10
+
+[cyhp]
+entity = "misc"
+score = 10
+
+[cybb]
+entity = "misc"
+score = 10
+
+[emzh]
+entity = "misc"
+score = 10
+
+[gify]
+entity = "misc"
+score = 10
+
+[utlu]
+entity = "misc"
+score = 10
+
+[cmcn]
+entity = "misc"
+score = 10
+
+[cnay]
+entity = "misc"
+score = 10
+
+[dlst]
+entity = "misc"
+score = 10
+
+[gpwz]
+entity = "misc"
+score = 10
+
+[ctap]
+entity = "misc"
+score = 10
+
+[cdri]
+entity = "misc"
+score = 10
+
+[ertd]
+entity = "misc"
+score = 10
+
+[davy]
+entity = "misc"
+score = 10
+
+[cfgj]
+entity = "misc"
+score = 10
+
+[bsko]
+entity = "misc"
+score = 10
+
+[flobc]
+entity = "misc"
+score = 10
+
+[nwei]
+entity = "misc"
+score = 10
+
+[monid]
+entity = "misc"
+score = 10
+
+[clye]
+entity = "misc"
+score = 10
+
+[dale]
+entity = "misc"
+score = 10
+
+[ogzs]
+entity = "misc"
+score = 10
+
+[gqln]
+entity = "misc"
+score = 10
+
+[installdir]
+entity = "misc"
+score = 10
+
+[ealu]
+entity = "misc"
+score = 10
+
+[gudy]
+entity = "misc"
+score = 10
+
+[amnk]
+entity = "misc"
+score = 10
+
+[clyz]
+entity = "misc"
+score = 10
+
+[bqod]
+entity = "misc"
+score = 10
+
+[bihd]
+entity = "misc"
+score = 10
+
+[duoo]
+entity = "misc"
+score = 10
+
+[ownot]
+entity = "misc"
+score = 10
+
+[harm]
+entity = "misc"
+score = 10
+
+[bjgh]
+entity = "misc"
+score = 10
+
+[dpot]
+entity = "misc"
+score = 10
+
+[deiv]
+entity = "misc"
+score = 10
+
+[buvr]
+entity = "misc"
+score = 10
+
+[mbru]
+entity = "misc"
+score = 10
+
+[dezv]
+entity = "misc"
+score = 10
+
+[mcod]
+entity = "misc"
+score = 10
+
+[njso]
+entity = "misc"
+score = 10
+
+[bueu]
+entity = "misc"
+score = 10
+
+[bubf]
+entity = "misc"
+score = 10
+
+[givv]
+entity = "misc"
+score = 10
+
+[dlti]
+entity = "misc"
+score = 10
+
+[brrm]
+entity = "misc"
+score = 10
+
+[cgto]
+entity = "misc"
+score = 10
+
+[crln]
+entity = "misc"
+score = 10
+
+[tvjt]
+entity = "misc"
+score = 10
+
+[ckvt]
+entity = "misc"
+score = 10
+
+[mbwg]
+entity = "misc"
+score = 10
+
+[wimp]
+entity = "misc"
+score = 10
+
+[dyed]
+entity = "misc"
+score = 10
+
+[doju]
+entity = "misc"
+score = 10
+
+[dtao]
+entity = "misc"
+score = 10
+
+[feir]
+entity = "misc"
+score = 10
+
+[beza]
+entity = "misc"
+score = 10
+
+[dgxn]
+entity = "misc"
+score = 10
+
+[cenv]
+entity = "misc"
+score = 10
+
+[cbcy]
+entity = "misc"
+score = 10
+
+[cozb]
+entity = "misc"
+score = 10
+
+[ksay]
+entity = "misc"
+score = 10
+
+[body]
+entity = "misc"
+score = 10
+
+[estn]
+entity = "misc"
+score = 10
+
+[gkxe]
+entity = "misc"
+score = 10
+
+[inrq]
+entity = "misc"
+score = 10
+
+[mizu]
+entity = "misc"
+score = 10
+
+[gpjb]
+entity = "misc"
+score = 10
+
+[dydn]
+entity = "misc"
+score = 10
+
+[faps]
+entity = "misc"
+score = 10
+
+[bibt]
+entity = "misc"
+score = 10
+
+[cvul]
+entity = "misc"
+score = 10
+
+[cork]
+entity = "misc"
+score = 10
+
+[djow]
+entity = "misc"
+score = 10
+
+[drxe]
+entity = "misc"
+score = 10
+
+[kyyq]
+entity = "misc"
+score = 10
+
+[euee]
+entity = "misc"
+score = 10
+
+[suspi]
+entity = "misc"
+score = 10
+
+[celv]
+entity = "misc"
+score = 10
+
+[upqf]
+entity = "misc"
+score = 10
+
+[xash]
+entity = "misc"
+score = 10
+
+[buyn]
+entity = "misc"
+score = 10
+
+[daia]
+entity = "misc"
+score = 10
+
+[bvlm]
+entity = "misc"
+score = 10
+
+[cdoc]
+entity = "misc"
+score = 10
+
+[bumt]
+entity = "misc"
+score = 10
+
+[hels]
+entity = "misc"
+score = 10
+
+[btse]
+entity = "misc"
+score = 10
+
+[dtap]
+entity = "misc"
+score = 10
+
+[hlar]
+entity = "misc"
+score = 10
+
+[cixk]
+entity = "misc"
+score = 10
+
+[mqlk]
+entity = "misc"
+score = 10
+
+[duva]
+entity = "misc"
+score = 10
+
+[cvyz]
+entity = "misc"
+score = 10
+
+[cufs]
+entity = "misc"
+score = 10
+
+[cfmt]
+entity = "misc"
+score = 10
+
+[dmvx]
+entity = "misc"
+score = 10
+
+[tuco]
+entity = "misc"
+score = 10
+
+[ceph]
+entity = "misc"
+score = 10
+
+[bypi]
+entity = "misc"
+score = 10
+
+[bhot]
+entity = "misc"
+score = 10
+
+[attention]
+entity = "misc"
+score = 10
