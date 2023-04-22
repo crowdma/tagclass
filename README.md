@@ -98,3 +98,14 @@ TagClass uses [Poetry](https://python-poetry.org/docs/) for dependency managemen
 ## License
 
 Distributed under the MIT License.
+
+## References
+
+```bib
+@inproceedings{jiang_tagclass_2023,
+  title     = {TagClass: A Tool for Extracting Class-determined Tags from Massive Malware Labels via Incremental Parsing},
+  author    = {Yongkang, Jiang and Gaolei, Li and Shenghong, Li},
+  booktitle = {Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)},
+  year      = {2023}
+}
+```
